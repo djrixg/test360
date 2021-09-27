@@ -17,7 +17,7 @@
       <label backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" background="1" backgroundalpha="1" borderalpha="1" width="180" borderradius="1" wordwrap="1" height="20" textalpha="1" border="1" textcolor="0x000000"/>
       <polystyle backgroundcolor="0x0000ff" bordercolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="0" handcursor="1"/>
       <hotspot url="{node2}" target="-43.3/0.0/51.2" tilt="-4.28" skinid="ht_node" title="3rd floor Lobby" id="Point01" description="" pan="-33.5"/>
-      <hotspot url="https://www.youtube.com/embed/NzW9TKP4Ia8?autoplay=true" use3D="0" target="" customimage="media/USTP logo for Dark Background.png" tilt="-12.36" fov="10" skinid="ht_video_youtube" customimageheight="166" title="test" customimagewidth="151" distance3D="862.969" id="Point02" description="tsadsadhaskdjsd" pan="250.04"/>
+      <hotspot url="NzW9TKP4Ia8" use3D="1" target="" customimage="media/USTP logo for Dark Background.png" tilt="-11.6" fov="10" skinid="ht_video_youtube" customimageheight="1847" title="Campus Tour" customimagewidth="1690" distance3D="9658.39" id="Point02" description="" pan="-110.28"/>
     </hotspots>
     <media/>
     <transition zoomafteroutfov="20" blendtime="1" zoomout="0" softedge="0" zoomspeed="2" zoomfov="20" zoomafterinfov="90" enabled="1" zoomin="0" zoomoutpause="1" blendcolor="0x000000" type="crossdissolve"/>
