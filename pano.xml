@@ -1,138 +1,584 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<tour start="node1" appversion="6.1.13" apprev="18080">
+<tour apprev="18080" start="node22" appversion="6.1.13">
   <panorama hideabout="1" id="node1">
-    <input levelbiashidpi="1.000" width="2176" leveltilesize="510" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" levelingpitch="0" height="2176" levelbias="0.400">
-      <level width="2176" predecode="0" preload="0" height="2176"/>
-      <level width="1088" predecode="0" preload="0" height="1088"/>
-      <level width="544" predecode="0" preload="0" height="544"/>
-      <level width="272" predecode="1" preload="1" height="272"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="27" fovmode="0">
-      <start projection="4" pan="0" tilt="0" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fovstereographic="270" pan="360" tilt="90" fov="120" fovfisheye="360" scaletofit="1"/>
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
     </view>
-    <userdata datetime="27 Sep 2021 12:14 pm" tags="Downloads" customnodeid="" title="" comment="" info="" author="" longitude="124.657238" description="" source="" latitude="8.486011" nodeid="node1" heading="27" copyright=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" width="180" borderradius="1" textcolor="0x000000" border="1" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" background="1" backgroundcolor="0xffffff" height="20"/>
-      <polystyle backgroundalpha="0.0980392" borderalpha="1" handcursor="1" bordercolor="0x281da3" mode="1" backgroundcolor="0xffffff"/>
-      <polyhotspot title="3rd floor" id="Poly01" target="-123.5/-12.4/70.0" description="" url="{node2}">
+    <userdata info="" nodeid="node1" author="" tags="Downloads" datetime="27 Sep 2021 12:14 pm" latitude="8.48602957" heading="27" source="" longitude="124.65731042" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+      <polyhotspot id="Poly01" url="{node2}" target="-123.5/-12.4/70.0" description="" title="3rd floor">
         <polystring>-211.53/16.26|-226.52/12.95|-222.78/-28.5|-208.93/-33.99</polystring>
       </polyhotspot>
-      <hotspot title="USTP Cagayan de Oro Virtual Tour 4K" id="Point01" target="" distance3D="653.554" pan="-96.84" tilt="-3.18" customimageheight="286" description="" customimage="media/USTP logo.png" skinid="ht_video_youtube" fov="22.5" url="NzW9TKP4Ia8" customimagewidth="260" use3D="1"/>
+      <hotspot fov="22.5" id="Point01" customimagewidth="260" use3D="1" url="NzW9TKP4Ia8" target="" tilt="-3.18" description="" customimageheight="286" skinid="ht_video_youtube" title="USTP Cagayan de Oro Virtual Tour 4K" pan="-96.84" customimage="media/USTP logo.png" distance3D="653.554"/>
     </hotspots>
     <media>
-      <image rotz="0.000" width="444" id="Element01" pan="-351.870" clickmode="4" tilt="-0.540" rotx="0.000" handcursor="1" stretch="1.000" fov="18.650" roty="9.000" height="561">
+      <image roty="9.000" height="561" fov="18.650" id="Element01" rotz="0.000" clickmode="4" stretch="1.000" tilt="-0.540" width="444" rotx="0.000" handcursor="1" pan="-351.870">
         <source url="media/CORE.jpg"/>
       </image>
-      <sound nodechangekeep="0" level="1.000" tiltsize="10.000" ambientlevel="0.000" id="Element02" field="20.000" pan="-36.910" startmutedmobile="0" tilt="-16.200" pansize="10.000" mode="5" loop="1">
+      <sound ambientlevel="0.000" id="Element02" tiltsize="10.000" level="1.000" nodechangekeep="0" loop="1" pansize="10.000" tilt="-16.200" startmutedmobile="0" pan="-36.910" field="20.000" mode="5">
         <source url="media/[Royalty Free] Background music for Real Estate presentation &amp; Corporate videos.mp3"/>
       </sound>
-      <sound nodechangekeep="0" level="1.000" tiltsize="10.000" ambientlevel="0.000" id="Element03" field="20.000" pan="-259.050" startmutedmobile="0" tilt="-26.760" pansize="10.000" mode="5" loop="1">
-        <source url="media/SUICIDE SILENCE - You Only Live Once (OFFICIAL VIDEO).wav"/>
-      </sound>
-      <video tilt="-16.130" width="320" height="240" handcursor="0" level="1.000" startmutedmobile="0" clickmode="0" tiltsize="10.000" roty="0.000" rotz="0.000" rotx="0.000" loop="1" nodechangekeep="0" field="20.000" pansize="10.000" id="Element04" stretch="1.000" mode="3" fov="30.000" ambientlevel="0.000" pan="-309.160">
+      <video mode="3" ambientlevel="0.000" pan="-309.160" handcursor="0" height="240" tilt="-16.130" pansize="10.000" nodechangekeep="0" field="20.000" rotz="0.000" roty="0.000" id="Element04" level="1.000" startmutedmobile="0" tiltsize="10.000" fov="30.000" stretch="1.000" clickmode="0" loop="1" rotx="0.000" width="320">
         <source url="media/tvpatrol.mp4"/>
       </video>
     </media>
-    <transition blendcolor="0x000000" zoomout="2" softedge="0" blendtime="0.2" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" type="crossdissolve" zoomin="2"/>
-    <flyintransition speed="2.00" enabled="1"/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="1" rubberband="0" invertwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" lockedmouse="0" speedwheel="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
   </panorama>
   <panorama hideabout="1" id="node2">
-    <input levelbiashidpi="1.000" width="2176" leveltilesize="510" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" levelingpitch="0" height="2176" levelbias="0.400">
-      <level width="2176" predecode="0" preload="0" height="2176"/>
-      <level width="1088" predecode="0" preload="0" height="1088"/>
-      <level width="544" predecode="0" preload="0" height="544"/>
-      <level width="272" predecode="1" preload="1" height="272"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="121" fovmode="0">
-      <start projection="4" pan="0" tilt="0" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fovstereographic="270" pan="360" tilt="90" fov="120" fovfisheye="360" scaletofit="1"/>
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
     </view>
-    <userdata datetime="27 Sep 2021 12:16 pm" tags="Downloads" customnodeid="" title="" comment="" info="" author="" longitude="124.657229" description="" source="" latitude="8.486023" nodeid="node2" heading="121" copyright=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" width="180" borderradius="1" textcolor="0x000000" border="1" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" background="1" backgroundcolor="0xffffff" height="20"/>
-      <polystyle backgroundalpha="0.0980392" borderalpha="1" handcursor="1" bordercolor="0x281da3" mode="1" backgroundcolor="0xffffff"/>
-      <polyhotspot title="StratComm" id="Poly01" target="-14.9/-23.5/70.0" description="" url="{node1}">
+    <userdata info="" nodeid="node2" author="" tags="Downloads" datetime="27 Sep 2021 12:16 pm" latitude="8.48600045" heading="121" source="" longitude="124.65729471" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+      <polyhotspot id="Poly01" url="{node1}" target="-14.9/-23.5/70.0" description="" title="StratComm">
         <polystring>-270.99/26.58|-299.45/24.19|-301.34/-49.55|-269.32/-54</polystring>
       </polyhotspot>
-      <polyhotspot title="Boardroom" id="Poly02" target="177.9/-12.2/70.0" description="" url="{node3}">
+      <polyhotspot id="Poly02" url="{node3}" target="177.9/-12.2/70.0" description="" title="Boardroom">
         <polystring>-355.05/5.86|-8.92/6.03|-9.74/-19.5|-355.3/-19.62</polystring>
       </polyhotspot>
     </hotspots>
     <media/>
-    <transition blendcolor="0x000000" zoomout="2" softedge="0" blendtime="0.2" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" type="crossdissolve" zoomin="2"/>
-    <flyintransition speed="2.00" enabled="1"/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="1" rubberband="0" invertwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" lockedmouse="0" speedwheel="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
   </panorama>
   <panorama hideabout="1" id="node3">
-    <input levelbiashidpi="1.000" width="2176" leveltilesize="510" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" levelingpitch="0" height="2176" levelbias="0.400">
-      <level width="2176" predecode="0" preload="0" height="2176"/>
-      <level width="1088" predecode="0" preload="0" height="1088"/>
-      <level width="544" predecode="0" preload="0" height="544"/>
-      <level width="272" predecode="1" preload="1" height="272"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="323" fovmode="0">
-      <start projection="4" pan="0" tilt="0" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fovstereographic="270" pan="360" tilt="90" fov="120" fovfisheye="360" scaletofit="1"/>
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
     </view>
-    <userdata datetime="27 Sep 2021 12:18 pm" tags="Downloads" customnodeid="" title="" comment="" info="" author="" longitude="124.657240" description="" source="" latitude="8.486001" nodeid="node3" heading="323" copyright=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" width="180" borderradius="1" textcolor="0x000000" border="1" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" background="1" backgroundcolor="0xffffff" height="20"/>
-      <polystyle backgroundalpha="0.0980392" borderalpha="1" handcursor="1" bordercolor="0x281da3" mode="1" backgroundcolor="0xffffff"/>
-      <polyhotspot title="3rd floor" id="Poly01" target="174.3/-13.3/70.0" description="" url="{node2}">
+    <userdata info="" nodeid="node3" author="" tags="Downloads" datetime="27 Sep 2021 12:18 pm" latitude="8.48596304" heading="323" source="" longitude="124.65734974" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+      <polyhotspot id="Poly01" url="{node2}" target="174.3/-13.3/70.0" description="" title="3rd floor">
         <polystring>-349.9/6.39|-358.07/6.44|-358.01/-8.57|-349.78/-8.79</polystring>
       </polyhotspot>
-      <polyhotspot title="outside" id="Poly02" target="114.6/-1.1/70.0" description="" url="{node4}">
-        <polystring>-242.99/4|-277.18/3.43|-276.21/-13.47|-243.94/-12.95</polystring>
-      </polyhotspot>
     </hotspots>
     <media/>
-    <transition blendcolor="0x000000" zoomout="2" softedge="0" blendtime="0.2" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" type="crossdissolve" zoomin="2"/>
-    <flyintransition speed="2.00" enabled="1"/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="1" rubberband="0" invertwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" lockedmouse="0" speedwheel="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
   </panorama>
   <panorama hideabout="1" id="node4">
-    <input levelbiashidpi="1.000" width="2304" leveltilesize="510" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" overlap="1" levelingpitch="0" height="2304" levelbias="0.400">
-      <level width="2304" predecode="0" preload="0" height="2304"/>
-      <level width="1152" predecode="0" preload="0" height="1152"/>
-      <level width="576" predecode="0" preload="0" height="576"/>
-      <level width="288" predecode="1" preload="1" height="288"/>
-      <preview color="0x808080" strip="1"/>
+    <input height="2304" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2304" levelbiashidpi="1.000">
+      <level height="2304" preload="0" width="2304" predecode="0"/>
+      <level height="1152" preload="0" width="1152" predecode="0"/>
+      <level height="576" preload="0" width="576" predecode="0"/>
+      <level height="288" preload="1" width="288" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
     </input>
     <view pannorth="345" fovmode="0">
-      <start projection="4" pan="0" tilt="0" fov="70"/>
-      <flyin projection="9" pan="0" tilt="-90" fov="170"/>
-      <min pan="0" tilt="-90" fovpixel="2"/>
-      <max fovstereographic="270" pan="360" tilt="90" fov="120" fovfisheye="360" scaletofit="1"/>
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
     </view>
-    <userdata datetime="27 Sep 2021 11:38 am" tags="Downloads" customnodeid="" title="" comment="" info="" author="" longitude="124.657124" description="" source="" latitude="8.485992" nodeid="node4" heading="345" copyright=""/>
-    <hotspots wordwrap="1" width="180" height="20">
-      <label backgroundalpha="1" wordwrap="1" width="180" borderradius="1" textcolor="0x000000" border="1" borderalpha="1" enabled="1" bordercolor="0x000000" textalpha="1" background="1" backgroundcolor="0xffffff" height="20"/>
-      <polystyle backgroundalpha="0.0980392" borderalpha="1" handcursor="1" bordercolor="0x281da3" mode="1" backgroundcolor="0xffffff"/>
-      <polyhotspot title="admin" id="Poly01" target="92.7/-10.8/70.0" description="" url="{node2}">
-        <polystring>-43.23/10.27|-64.35/9.95|-63.44/-1.27|-42.6/-0.73</polystring>
-      </polyhotspot>
+    <userdata info="" nodeid="node4" author="" tags="Downloads" datetime="27 Sep 2021 11:38 am" latitude="8.48561530" heading="345" source="" longitude="124.65700062" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+      <hotspot distance="53.4069" id="Point01" url="{node6}" target="" tilt="0" description="" skinid="ht_node" title="" pan="165.045"/>
     </hotspots>
     <media/>
-    <transition blendcolor="0x000000" zoomout="2" softedge="0" blendtime="0.2" zoomspeed="2" zoomafteroutfov="20" enabled="1" zoomfov="20" zoomafterinfov="90" zoomoutpause="1" type="crossdissolve" zoomin="2"/>
-    <flyintransition speed="2.00" enabled="1"/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
     <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
-    <control hideabout="1" rubberband="0" invertwheel="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" lockedmouse="0" speedwheel="1" contextprojections="0" lockedkeyboard="0" simulatemass="1" lockedwheel="0" invertcontrol="1" lockedkeyboardzoom="0" contextfullscreen="1"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node5">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="51" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node5" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 2:48 pm" latitude="8.48592232" heading="51" source="" longitude="124.65708621" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+      <hotspot distance="30.486" id="Point01" url="{node19}" target="$fwd" tilt="0" description="" skinid="ht_node" title="" pan="10.5648"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node6">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="173" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node6" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 2:52 pm" latitude="8.485135" heading="173" source="" longitude="124.657001" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node7">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="332" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node7" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 2:50 pm" latitude="8.485180" heading="332" source="" longitude="124.656750" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node8">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="301" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node8" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 2:55 pm" latitude="8.48504058" heading="301" source="" longitude="124.65641216" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+      <hotspot distance="228.216" id="Point01" url="{node12}" target="$fwd" tilt="0" description="" skinid="ht_node" title="" pan="339.756"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node9">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="260" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node9" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 2:57 pm" latitude="8.48476705" heading="260" source="" longitude="124.65651753" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node10">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="161" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node10" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:32 pm" latitude="8.48656680" heading="161" source="" longitude="124.65494145" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node11">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="268" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node11" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:27 pm" latitude="8.48660658" heading="268" source="" longitude="124.65502728" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node12">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="267" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node12" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:25 pm" latitude="8.48664107" heading="267" source="" longitude="124.65511312" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node13">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="346" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node13" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:19 pm" latitude="8.486015" heading="346" source="" longitude="124.657452" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node14">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="64" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node14" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:14 pm" latitude="8.48609734" heading="64" source="" longitude="124.65626451" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node15">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="160" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node15" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:54 pm" latitude="8.48582642" heading="160" source="" longitude="124.65663372" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node16">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="254" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node16" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:17 pm" latitude="8.486015" heading="254" source="" longitude="124.657452" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node17">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="130" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node17" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:16 pm" latitude="8.486015" heading="130" source="" longitude="124.657452" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node18">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="132" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node18" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 2:43 pm" latitude="8.48615852" heading="132" source="" longitude="124.65749181" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node19">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="29" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node19" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 2:39 pm" latitude="8.486131" heading="29" source="" longitude="124.657266" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node20">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="359" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node20" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:44 pm" latitude="" heading="359" source="" longitude="" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node21">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="287" fovmode="0">
+      <start fov="70" tilt="0" projection="4" pan="0"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node21" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:39 pm" latitude="8.48661985" heading="287" source="" longitude="124.65492268" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
+  </panorama>
+  <panorama hideabout="1" id="node22">
+    <input height="2176" levelingpitch="0" leveltilesize="510" overlap="1" levelingroll="0" levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" width="2176" levelbiashidpi="1.000">
+      <level height="2176" preload="0" width="2176" predecode="0"/>
+      <level height="1088" preload="0" width="1088" predecode="0"/>
+      <level height="544" preload="0" width="544" predecode="0"/>
+      <level height="272" preload="1" width="272" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="349" fovmode="0">
+      <start fov="77.2823" tilt="32.4075" projection="4" pan="18.7242"/>
+      <flyin fov="170" tilt="-90" projection="9" pan="0"/>
+      <min fovpixel="2" tilt="-90" pan="0"/>
+      <max fovfisheye="360" fov="120" fovstereographic="270" tilt="90" scaletofit="1" pan="360"/>
+    </view>
+    <userdata info="" nodeid="node22" author="" tags="Photos_downloaded_by_AirDroid" datetime="29 Sep 2021 3:51 pm" latitude="8.48536783" heading="349" source="" longitude="124.65628716" description="" copyright="" title="" customnodeid="" comment=""/>
+    <hotspots height="20" wordwrap="1" width="180">
+      <label border="1" height="20" backgroundalpha="1" wordwrap="1" borderalpha="1" borderradius="1" enabled="1" textalpha="1" textcolor="0x000000" background="1" width="180" bordercolor="0x000000" backgroundcolor="0xffffff"/>
+      <polystyle backgroundalpha="0.0980392" borderalpha="1" bordercolor="0x281da3" handcursor="1" backgroundcolor="0xffffff" mode="1"/>
+      <hotspot distance="38.8987" id="Point01" url="{node8}" target="$fwd" tilt="0" description="" skinid="ht_node" title="" pan="189.696"/>
+      <hotspot distance="55.0204" id="Point02" url="{node7}" target="$fwd" tilt="0" description="" skinid="ht_node" title="" pan="236.691"/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" type="crossdissolve" zoomafterinfov="90" enabled="1" zoomspeed="2" zoomin="2" blendtime="0.2" softedge="0" zoomfov="20" zoomout="2" zoomoutpause="1" blendcolor="0x000000"/>
+    <flyintransition enabled="1" speed="2.00"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01"/>
+    <control rubberband="0" contextfullscreen="1" invertcontrol="1" hideabout="1" contextvr="1" contextprojections="0" sensitivity="8" lockedkeyboardzoom="0" lockedwheel="0" invertwheel="0" lockedmouse="0" speedwheel="1" simulatemass="1" dblclickfullscreen="0" lockedkeyboard="0"/>
   </panorama>
   <masternode>
-    <userdata datetime="" tags="" customnodeid="" title="" comment="" info="" author="" longitude="" description="" source="" latitude="" nodeid="master" heading="0" copyright=""/>
+    <userdata info="" nodeid="master" author="" tags="" datetime="" latitude="" heading="0" source="" longitude="" description="" copyright="" title="" customnodeid="" comment=""/>
   </masternode>
 </tour>
