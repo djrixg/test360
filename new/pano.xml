@@ -71,7 +71,7 @@
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-224.5" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node4}" description="" tilt="-2.71" distance="22.1556" target="-83.9/0.0/100.0"/>
-      <hotspot pan="-39.5644" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node2}" description="" tilt="0" distance="17.1183" target="$fwd"/>
+      <hotspot pan="-45.9144" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node2}" description="" tilt="0.54" distance="17.1183" target="$fwd"/>
       <hotspot pan="-118.943" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node79}" description="" tilt="0" distance="15.4147" target="$fwd"/>
       <hotspot pan="31.5798" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node28}" description="" tilt="0" distance="13.1017" target="$fwd"/>
     </hotspots>
@@ -97,9 +97,9 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-75.8191" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node5}" description="" tilt="0" distance="18.3382" target="$fwd"/>
+      <hotspot pan="-81.8591" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node5}" description="" tilt="-6.38" distance="18.3382" target="$fwd"/>
       <hotspot pan="96.1052" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node3}" description="" tilt="0" distance="22.1556" target="$fwd"/>
-      <hotspot pan="157.151" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node27}" description="" tilt="0" distance="13.7741" target="$fwd"/>
+      <hotspot pan="180.781" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node27}" description="" tilt="-0.75" distance="13.7741" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -124,7 +124,7 @@
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-25.68" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node6}" description="" tilt="-7.9" distance="17.787" target="167.3/-11.3/100.0"/>
-      <hotspot pan="172.966" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node4}" description="" tilt="0" distance="18.3382" target="$fwd"/>
+      <hotspot pan="154.786" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node4}" description="" tilt="-3.62" distance="18.3382" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -463,7 +463,7 @@
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-15.3047" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node7}" description="" tilt="0" distance="6.26379" target="$fwd"/>
       <hotspot pan="49.9145" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node6}" description="" tilt="0" distance="5.26634" target="$fwd"/>
-      <hotspot pan="-164.64" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node25}" description="" tilt="-7.8" distance="8.36497" target="-103.0/0.0/100.0"/>
+      <hotspot pan="-164.04" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node25}" description="" tilt="-16.42" distance="8.36497" target="-103.0/0.0/100.0"/>
       <hotspot pan="-80.0185" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node19}" description="" tilt="0" distance="13.3988" target="$fwd"/>
     </hotspots>
     <media/>
@@ -638,7 +638,7 @@
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-282.965" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node18}" description="" tilt="0" distance="8.36497" target="$fwd"/>
       <hotspot pan="-468.785" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node24}" description="" tilt="-6.22" distance="10.2011" target="$fwd"/>
-      <hotspot pan="-197.358" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node26}" description="" tilt="0" distance="25.9597" target="$fwd"/>
+      <hotspot pan="-190.558" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node26}" description="" tilt="-10.76" distance="25.9597" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -662,8 +662,8 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-60.9817" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node25}" description="" tilt="0" distance="25.9597" target="$fwd"/>
-      <hotspot pan="119.178" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node27}" description="" tilt="0" distance="22.0998" target="$fwd"/>
+      <hotspot pan="-74.1117" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node25}" description="" tilt="-1.9" distance="25.9597" target="$fwd"/>
+      <hotspot pan="106.218" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node27}" description="" tilt="-5.09" distance="22.0998" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -687,8 +687,8 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="15.8563" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node26}" description="" tilt="0" distance="22.0998" target="$fwd"/>
-      <hotspot pan="191.997" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node28}" description="" tilt="0" distance="19.9556" target="$fwd"/>
+      <hotspot pan="0.146257" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node26}" description="" tilt="-5.8" distance="22.0998" target="$fwd"/>
+      <hotspot pan="202.267" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node28}" description="" tilt="-4.45" distance="19.9556" target="$fwd"/>
       <hotspot pan="72.2837" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node4}" description="" tilt="0" distance="13.7741" target="$fwd"/>
     </hotspots>
     <media/>
@@ -713,9 +713,9 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-27.7874" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node27}" description="" tilt="0" distance="19.9556" target="$fwd"/>
-      <hotspot pan="159.649" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node29}" description="" tilt="0" distance="26.4675" target="$fwd"/>
-      <hotspot pan="41.5218" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node3}" description="" tilt="0" distance="13.1017" target="$fwd"/>
+      <hotspot pan="-25.1974" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node27}" description="" tilt="-0.26" distance="19.9556" target="$fwd"/>
+      <hotspot pan="154.249" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node29}" description="" tilt="-2.44" distance="26.4675" target="$fwd"/>
+      <hotspot pan="46.1718" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node3}" description="" tilt="-4.44" distance="13.1017" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -740,7 +740,7 @@
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-78.7517" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node28}" description="" tilt="0" distance="26.4675" target="$fwd"/>
-      <hotspot pan="128.221" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node31}" description="" tilt="-5.39" distance="22.9865" target="$fwd"/>
+      <hotspot pan="135.851" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node31}" description="" tilt="-10.3" distance="22.9865" target="$fwd"/>
       <hotspot pan="33.7722" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node1}" description="" tilt="-1.96" distance="17.034" target="$fwd"/>
       <hotspot pan="-34.3786" id="Point05" title="TEST.JPG00000" skinid="ht_node" url="{node2}" description="" tilt="0.28" distance="21.2812" target="$fwd"/>
     </hotspots>
@@ -925,7 +925,7 @@
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-162.136" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node37}" description="" tilt="0" distance="11.6993" target="$fwd"/>
       <hotspot pan="83.1548" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node44}" description="" tilt="0" distance="12.1528" target="$fwd"/>
-      <hotspot pan="123.937" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node43}" description="" tilt="0" distance="13.2476" target="$fwd"/>
+      <hotspot pan="135.437" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node43}" description="" tilt="0" distance="15.9381" target="$fwd"/>
       <hotspot pan="-24.8139" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node35}" description="" tilt="0" distance="7.55052" target="$fwd"/>
     </hotspots>
     <media/>
@@ -951,7 +951,7 @@
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-182.414" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node38}" description="" tilt="0" distance="10.4824" target="$fwd"/>
-      <hotspot pan="41.4674" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node43}" description="" tilt="0" distance="15.0517" target="$fwd"/>
+      <hotspot pan="56.7067" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node43}" description="" tilt="0" distance="14.7741" target="$fwd"/>
       <hotspot pan="-16.2835" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node36}" description="" tilt="0" distance="11.6993" target="$fwd"/>
       <hotspot pan="17.0595" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node44}" description="" tilt="0" distance="20.0856" target="$fwd"/>
     </hotspots>
@@ -1080,8 +1080,8 @@
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="144.291" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node47}" description="" tilt="0" distance="10.4404" target="$fwd"/>
-      <hotspot pan="-40.877" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node41}" description="" tilt="0" distance="6.2796" target="$fwd"/>
-      <hotspot pan="59.066" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node43}" description="" tilt="0" distance="8.63964" target="$fwd"/>
+      <hotspot pan="-65.397" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node41}" description="" tilt="-3.63" distance="6.2796" target="$fwd"/>
+      <hotspot pan="48.7087" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node43}" description="" tilt="-23.14" distance="4.69038" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -1101,14 +1101,15 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovstereographic="270" fov="120" scaletofit="1" fovfisheye="360" tilt="90"/>
     </view>
-    <userdata latitude="8.48499476" title="TEST.JPG00000" copyright="" comment="" author="" info="" datetime="" description="" customnodeid="" tags="Converted" longitude="124.65692730" source="" nodeid="node43" altitude="19.45" heading="100.208"/>
+    <userdata latitude="8.48495961" title="TEST.JPG00000" copyright="" comment="" author="" info="" datetime="" description="" customnodeid="" tags="Converted" longitude="124.65693333" source="" nodeid="node43" altitude="19.45" heading="100.208"/>
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-66.4787" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node42}" description="" tilt="0" distance="8.63964" target="$fwd"/>
-      <hotspot pan="8.23939" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node37}" description="" tilt="0" distance="15.0517" target="$fwd"/>
-      <hotspot pan="119.556" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node44}" description="" tilt="0" distance="8.90953" target="$fwd"/>
-      <hotspot pan="56.5616" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node36}" description="" tilt="0" distance="13.2476" target="$fwd"/>
+      <hotspot pan="-63.366" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node42}" description="" tilt="0" distance="4.69038" target="$fwd"/>
+      <hotspot pan="23.4788" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node37}" description="" tilt="0" distance="14.7741" target="$fwd"/>
+      <hotspot pan="116.567" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node44}" description="" tilt="0" distance="12.8345" target="$fwd"/>
+      <hotspot pan="68.0616" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node36}" description="" tilt="0" distance="15.9381" target="$fwd"/>
+      <hotspot pan="208.519" id="Point05" title="TEST.JPG00000" skinid="ht_node" url="{node48}" description="" tilt="0" distance="11.0318" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -1132,7 +1133,7 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-93.8526" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node43}" description="" tilt="0" distance="8.90953" target="$fwd"/>
+      <hotspot pan="-96.8414" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node43}" description="" tilt="0" distance="12.8345" target="$fwd"/>
       <hotspot pan="-17.6298" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node36}" description="" tilt="0" distance="12.1528" target="$fwd"/>
       <hotspot pan="-49.5773" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node37}" description="" tilt="0" distance="20.0856" target="$fwd"/>
       <hotspot pan="91.4493" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node45}" description="" tilt="0" distance="9.89885" target="$fwd"/>
@@ -1186,7 +1187,7 @@
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="51.0583" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node48}" description="" tilt="0" distance="2.97443" target="$fwd"/>
-      <hotspot pan="-60.1279" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node42}" description="" tilt="0" distance="10.4404" target="$fwd"/>
+      <hotspot pan="-41.5179" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node42}" description="" tilt="-5.06" distance="10.4404" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -1212,6 +1213,7 @@
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-10.5708" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node50}" description="" tilt="0" distance="6.54587" target="$fwd"/>
       <hotspot pan="-273.37" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node47}" description="" tilt="0" distance="2.97443" target="$fwd"/>
+      <hotspot pan="-200.123" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node43}" description="" tilt="-0.94" distance="11.0318" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -1235,8 +1237,8 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="10.7782" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node51}" description="" tilt="0" distance="9.76669" target="$fwd"/>
-      <hotspot pan="-69.7933" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node48}" description="" tilt="0" distance="6.54587" target="$fwd"/>
+      <hotspot pan="13.6782" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node51}" description="" tilt="-8.71" distance="9.76669" target="$fwd"/>
+      <hotspot pan="-79.4733" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node48}" description="" tilt="-4.03" distance="6.54587" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -1260,7 +1262,7 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-199.754" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node66}" description="" tilt="-5.35" distance="26.5947" target="$fwd"/>
+      <hotspot pan="-199.764" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node66}" description="" tilt="-5.35" distance="26.5947" target="$fwd"/>
       <hotspot pan="-110.39" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node52}" description="" tilt="-2.7" distance="7.87182" target="$fwd"/>
       <hotspot pan="-374.022" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node50}" description="" tilt="1.28" distance="9.76669" target="$fwd"/>
     </hotspots>
@@ -1548,6 +1550,7 @@
       <hotspot pan="69.9365" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node60}" description="" tilt="0" distance="35.8995" target="$fwd"/>
       <hotspot pan="223.973" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node114}" description="" tilt="0" distance="11.7743" target="$fwd"/>
       <hotspot pan="256.917" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node115}" description="" tilt="0" distance="32.6265" target="$fwd"/>
+      <hotspot pan="115.193" id="Point05" title="TEST.JPG00000" skinid="ht_node" url="{node65}" description="" tilt="0" distance="13.4313" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -1598,9 +1601,10 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-20.056" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node67}" description="" tilt="0" distance="9.38719" target="$fwd"/>
+      <hotspot pan="-13.246" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node67}" description="" tilt="-15.65" distance="9.38719" target="$fwd"/>
       <hotspot pan="-133.56" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node66}" description="" tilt="0" distance="15.6931" target="$fwd"/>
-      <hotspot pan="45.4005" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node64}" description="" tilt="0" distance="10.5485" target="$fwd"/>
+      <hotspot pan="35.1005" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node64}" description="" tilt="0.01" distance="10.5485" target="$fwd"/>
+      <hotspot pan="81.4125" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node63}" description="" tilt="-4.79" distance="13.4313" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -1650,7 +1654,7 @@
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="224.331" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node70}" description="" tilt="-4.31" distance="7.88949" target="$fwd"/>
-      <hotspot pan="436.642" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node65}" description="" tilt="0" distance="9.38719" target="$fwd"/>
+      <hotspot pan="425.702" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node65}" description="" tilt="-2.9" distance="9.38719" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -2108,8 +2112,8 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-51.1318" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node100}" description="" tilt="0" distance="25.803" target="$fwd"/>
-      <hotspot pan="-39.9865" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node99}" description="" tilt="0" distance="24.4934" target="$fwd"/>
+      <hotspot pan="-55.7218" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node100}" description="" tilt="0.88" distance="25.803" target="$fwd"/>
+      <hotspot pan="-38.2065" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node99}" description="" tilt="0" distance="24.4934" target="$fwd"/>
       <hotspot pan="188.288" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node88}" description="" tilt="-2.19" distance="13.882" target="$fwd"/>
       <hotspot pan="59.366" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node86}" description="" tilt="0" distance="14.8827" target="$fwd"/>
     </hotspots>
@@ -2187,7 +2191,7 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="5.64756" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node91}" description="" tilt="0" distance="7.18311" target="$fwd"/>
+      <hotspot pan="10.4476" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node91}" description="" tilt="-3.49" distance="7.18311" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -2211,8 +2215,8 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-5.59647" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node93}" description="" tilt="0" distance="5.75191" target="$fwd"/>
-      <hotspot pan="170.967" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node90}" description="" tilt="0" distance="7.18311" target="$fwd"/>
+      <hotspot pan="-0.626475" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node93}" description="" tilt="-15.11" distance="5.75191" target="$fwd"/>
+      <hotspot pan="174.547" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node90}" description="" tilt="-0.76" distance="7.18311" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -2264,7 +2268,7 @@
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="42.104" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node94}" description="" tilt="0" distance="14.2972" target="$fwd"/>
       <hotspot pan="-48.0427" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node92}" description="" tilt="0" distance="33.1658" target="$fwd"/>
-      <hotspot pan="222.912" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node91}" description="" tilt="0" distance="5.75191" target="$fwd"/>
+      <hotspot pan="230.302" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node91}" description="" tilt="6.87" distance="5.75191" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -2389,7 +2393,7 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="27.4213" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node99}" description="" tilt="0" distance="21.4314" target="$fwd"/>
+      <hotspot pan="35.3913" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node99}" description="" tilt="-8.62" distance="21.4314" target="$fwd"/>
       <hotspot pan="209.775" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node97}" description="" tilt="0" distance="8.14832" target="$fwd"/>
     </hotspots>
     <media/>
@@ -2417,6 +2421,7 @@
       <hotspot pan="104.234" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node100}" description="" tilt="0" distance="5.05509" target="$fwd"/>
       <hotspot pan="277.875" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node98}" description="" tilt="-1.34" distance="21.4314" target="$fwd"/>
       <hotspot pan="364.864" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node87}" description="" tilt="0" distance="24.4934" target="$fwd"/>
+      <hotspot pan="168.079" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node101}" description="" tilt="3.06" distance="34.6258" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -2469,6 +2474,7 @@
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="53.093" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node103}" description="" tilt="0" distance="24.2546" target="$fwd"/>
       <hotspot pan="234.637" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node100}" description="" tilt="-0.85" distance="33.7914" target="$fwd"/>
+      <hotspot pan="221.638" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node99}" description="" tilt="0" distance="34.6258" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -2496,7 +2502,7 @@
       <hotspot pan="84.7801" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node117}" description="" tilt="-1.08" distance="17.723" target="$fwd"/>
       <hotspot pan="98.9427" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node118}" description="" tilt="0.71" distance="19.4501" target="$fwd"/>
       <hotspot pan="347.689" id="Point05" title="TEST.JPG00000" skinid="ht_node" url="{node101}" description="" tilt="-1.31" distance="24.2546" target="$fwd"/>
-      <hotspot pan="164.619" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node122}" description="" tilt="0" distance="27.0701" target="$fwd"/>
+      <hotspot pan="179.709" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node122}" description="" tilt="-0.07" distance="27.0701" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -2927,7 +2933,7 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-67.4895" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node121}" description="" tilt="-12.32" distance="4.81702" target="$fwd"/>
+      <hotspot pan="-67.3995" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node121}" description="" tilt="-8.16" distance="4.81702" target="$fwd"/>
       <hotspot pan="82.3471" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node103}" description="" tilt="0" distance="22.2139" target="$fwd"/>
       <hotspot pan="122.836" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node117}" description="" tilt="0" distance="27.1929" target="$fwd"/>
       <hotspot pan="134.468" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node118}" description="" tilt="0" distance="22.0579" target="$fwd"/>
@@ -2984,7 +2990,7 @@
       <hotspot pan="140.024" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node123}" description="" tilt="0.17" distance="22.592" target="$fwd"/>
       <hotspot pan="105.884" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node120}" description="" tilt="0" distance="31.5228" target="$fwd"/>
       <hotspot pan="192.531" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node122}" description="" tilt="0" distance="3.56701" target="$fwd"/>
-      <hotspot pan="291.841" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node119}" description="" tilt="0" distance="4.81702" target="$fwd"/>
+      <hotspot pan="303.201" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node119}" description="" tilt="-12.18" distance="4.81702" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -3008,10 +3014,10 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="14.0957" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node123}" description="" tilt="0" distance="22.1463" target="$fwd"/>
-      <hotspot pan="-78.5226" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node121}" description="" tilt="0" distance="3.56701" target="$fwd"/>
-      <hotspot pan="197.553" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node103}" description="" tilt="0" distance="27.0701" target="$fwd"/>
-      <hotspot pan="233.915" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node119}" description="" tilt="0" distance="6.44102" target="$fwd"/>
+      <hotspot pan="351.796" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node123}" description="" tilt="-1.91" distance="22.1463" target="$fwd"/>
+      <hotspot pan="-99.4626" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node121}" description="" tilt="-1.1" distance="3.56701" target="$fwd"/>
+      <hotspot pan="168.823" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node103}" description="" tilt="0.33" distance="27.0701" target="$fwd"/>
+      <hotspot pan="221.485" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node119}" description="" tilt="1.57" distance="6.44102" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -3064,7 +3070,7 @@
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-1.98067" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node125}" description="" tilt="0" distance="18.2985" target="$fwd"/>
       <hotspot pan="181.38" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node123}" description="" tilt="0" distance="20.2022" target="$fwd"/>
-      <hotspot pan="199.707" id="Point05" title="TEST.JPG00000" skinid="ht_node" url="{node120}" description="" tilt="0" distance="11.7972" target="$fwd"/>
+      <hotspot pan="247.137" id="Point05" title="TEST.JPG00000" skinid="ht_node" url="{node120}" description="" tilt="1.29" distance="11.7972" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -3156,7 +3162,7 @@
     <control speedwheel="1" rubberband="0" lockedkeyboard="0" sensitivity="8" lockedwheel="0" lockedmouse="0" lockedkeyboardzoom="0" contextvr="1" contextprojections="0" simulatemass="1" dblclickfullscreen="0" contextfullscreen="1" hideabout="0" invertwheel="0" invertcontrol="1"/>
   </panorama>
   <panorama id="node128">
-    <input levelingroll="0" overlap="1" levelbias="0.400" leveltileurl="tiles/node128/cf_%c/l_%l/c_%x/tile_%y.jpg" height="760" levelingpitch="0" width="760" leveltilesize="510" levelbiashidpi="1.000">
+    <input levelingroll="-4.15158" overlap="1" levelbias="0.400" leveltileurl="tiles/node128/cf_%c/l_%l/c_%x/tile_%y.jpg" height="760" levelingpitch="3.12277" width="760" leveltilesize="510" levelbiashidpi="1.000">
       <level preload="0" predecode="0" height="760" width="760"/>
       <level preload="1" predecode="1" height="380" width="380"/>
       <preview strip="1" color="0x808080"/>
@@ -3171,10 +3177,9 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-404.086" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node129}" description="" tilt="0" distance="7.5588" target="$fwd"/>
-      <hotspot pan="-318.736" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node126}" description="" tilt="0" distance="6.19144" target="$fwd"/>
-      <hotspot pan="-375.564" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node127}" description="" tilt="0" distance="10.9518" target="$fwd"/>
-      <hotspot pan="-229.869" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node125}" description="" tilt="0" distance="23.4572" target="$fwd"/>
+      <hotspot pan="-393.786" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node129}" description="" tilt="-2.95" distance="7.5588" target="$fwd"/>
+      <hotspot pan="-310.606" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node126}" description="" tilt="-13.07" distance="6.19144" target="$fwd"/>
+      <hotspot pan="-254.589" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node125}" description="" tilt="-7.92" distance="23.4572" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -3198,10 +3203,10 @@
     <hotspots height="500" wordwrap="1" width="500">
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
-      <hotspot pan="-144.024" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node131}" description="" tilt="0" distance="13.2818" target="$fwd"/>
+      <hotspot pan="-141.894" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node131}" description="" tilt="-1.29" distance="13.2818" target="$fwd"/>
       <hotspot pan="-60.447" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node127}" description="" tilt="0" distance="5.6219" target="$fwd"/>
-      <hotspot pan="51.0899" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node128}" description="" tilt="0" distance="7.5588" target="$fwd"/>
-      <hotspot pan="9.921" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node126}" description="" tilt="0" distance="9.3745" target="$fwd"/>
+      <hotspot pan="40.2899" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node128}" description="" tilt="-7.76" distance="7.5588" target="$fwd"/>
+      <hotspot pan="6.771" id="Point04" title="TEST.JPG00000" skinid="ht_node" url="{node126}" description="" tilt="-5.21" distance="9.3745" target="$fwd"/>
     </hotspots>
     <media/>
     <transition enabled="1" blendtime="1" zoomout="3" zoomspeed="8" zoomfov="10" blendcolor="0x000000" zoomafterinfov="80" zoomin="2" softedge="0" zoomafteroutfov="20" zoomoutpause="0" type="crossdissolve"/>
@@ -3226,7 +3231,7 @@
       <label backgroundcolor="0xffffff" backgroundalpha="1" borderalpha="1" enabled="1" textalpha="1" border="1" textcolor="0x000000" background="1" height="500" wordwrap="1" width="500" bordercolor="0x000000" borderradius="1"/>
       <polystyle backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1" mode="1" handcursor="1" bordercolor="0x0000ff"/>
       <hotspot pan="-319.9" id="Point01" title="TEST.JPG00000" skinid="ht_node" url="{node132}" description="" tilt="0" distance="3.32621" target="$fwd"/>
-      <hotspot pan="-156.832" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node129}" description="" tilt="-9.89" distance="13.2818" target="$fwd"/>
+      <hotspot pan="-160.822" id="Point02" title="TEST.JPG00000" skinid="ht_node" url="{node129}" description="" tilt="-12.78" distance="13.2818" target="$fwd"/>
       <hotspot pan="-196.515" id="Point03" title="TEST.JPG00000" skinid="ht_node" url="{node127}" description="" tilt="-4.1" distance="13.8314" target="$fwd"/>
     </hotspots>
     <media/>
