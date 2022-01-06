@@ -2852,12 +2852,9 @@
     <hotspots width="500" wordwrap="1" height="500">
       <label border="1" background="1" width="500" backgroundalpha="1" wordwrap="1" height="500" borderalpha="1" textcolor="0x000000" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot id="Point02" url="{node119}" description="" target="$fwd" title="USTP" pan="154.72" distance="22.2139" tilt="0" skinid="ht_node"/>
       <hotspot id="Point03" url="{node117}" description="" target="$fwd" title="USTP" pan="84.8701" distance="17.723" tilt="-3.2" skinid="ht_node"/>
-      <hotspot id="Point04" url="{node118}" description="" target="$fwd" title="Flagpole" pan="98.9427" distance="19.4501" tilt="0.71" skinid="ht_node"/>
       <hotspot id="Point05" url="{node101}" description="" target="$fwd" title="USTP" pan="350.049" distance="24.2546" tilt="-2.57" skinid="ht_node"/>
       <hotspot id="Point01" url="{node122}" description="" target="$fwd" title="USTP" pan="177.989" distance="27.0701" tilt="-1" skinid="ht_node"/>
-      <hotspot id="Point06" url="{node137}" description="" target="$fwd" title="USTP" pan="118.55" distance="23.439" tilt="4.46" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomafterinfov="80" zoomfov="40" zoomafteroutfov="20" type="crossdissolve" softedge="0" blendtime="1" zoomspeed="8" zoomin="2" blendcolor="0x000000" enabled="1" zoomout="2"/>
