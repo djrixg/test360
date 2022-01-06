@@ -107,11 +107,11 @@
     <hotspots width="500" wordwrap="1" height="500">
       <label border="1" background="1" width="500" backgroundalpha="1" wordwrap="1" height="500" borderalpha="1" textcolor="0x000000" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot id="Point01" url="{node2}" description="" target="176.9/-6.4/100.0" title="USTP" pan="42.66" distance="22.32" tilt="0.15" skinid="ht_node"/>
+      <hotspot id="Point01" url="{node2}" description="" target="176.9/-6.4/100.0" title="USTP" pan="42.87" distance="22.32" tilt="1.93" skinid="ht_node"/>
       <hotspot id="Point02" url="{node30}" description="" target="-175.1/-13.3/100.0" title="USTP" pan="-52.5159" distance="19.6446" tilt="0" skinid="ht_node"/>
-      <hotspot id="Point03" url="{node84}" description="" target="59.2/-0.4/100.0" title="USTP" pan="134.53" distance="36.0922" tilt="-1.34" skinid="ht_node"/>
+      <hotspot id="Point03" url="{node84}" description="" target="59.2/-0.4/100.0" title="USTP" pan="135.16" distance="36.0922" tilt="-0.53" skinid="ht_node"/>
       <hotspot id="Point04" url="{node29}" description="" target="$fwd" title="USTP" pan="-17.7737" distance="17.034" tilt="0.16" skinid="ht_node"/>
-      <hotspot id="Point05" url="{node135}" description="" target="$fwd" title="USTP" pan="173.495" distance="41.9078" tilt="0" skinid="ht_node"/>
+      <hotspot id="Point05" url="{node135}" description="" target="$fwd" title="USTP" pan="173.335" distance="41.9078" tilt="-0.15" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomafterinfov="80" zoomfov="40" zoomafteroutfov="20" type="crossdissolve" softedge="0" blendtime="1" zoomspeed="8" zoomin="2" blendcolor="0x000000" enabled="1" zoomout="2"/>
@@ -138,7 +138,7 @@
     <hotspots width="500" wordwrap="1" height="500">
       <label border="1" background="1" width="500" backgroundalpha="1" wordwrap="1" height="500" borderalpha="1" textcolor="0x000000" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot id="Point01" url="{node3}" description="" target="132.8/-6.2/100.0" title="USTP" pan="-185.2" distance="17.1183" tilt="0" skinid="ht_node"/>
+      <hotspot id="Point01" url="{node3}" description="" target="132.8/-6.2/100.0" title="USTP" pan="-182.09" distance="17.1183" tilt="-2.69" skinid="ht_node"/>
       <hotspot id="Point02" url="{node1}" description="" target="-133.8/-9.5/74.3" title="Admin" pan="-2.5" distance="22.32" tilt="0" skinid="ht_node"/>
       <hotspot id="Point03" url="{node29}" description="" target="$fwd" title="USTP" pan="46.3349" distance="21.2812" tilt="0" skinid="ht_node"/>
     </hotspots>
@@ -197,9 +197,9 @@
     <hotspots width="500" wordwrap="1" height="500">
       <label border="1" background="1" width="500" backgroundalpha="1" wordwrap="1" height="500" borderalpha="1" textcolor="0x000000" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot id="Point01" url="{node5}" description="" target="$fwd" title="USTP" pan="-81.8591" distance="18.3382" tilt="-6.38" skinid="ht_node"/>
+      <hotspot id="Point01" url="{node5}" description="" target="$fwd" title="USTP" pan="-82.3791" distance="18.3382" tilt="-6.68" skinid="ht_node"/>
       <hotspot id="Point02" url="{node3}" description="" target="-46.3/-1.2/100.0" title="USTP" pan="96.1052" distance="22.1556" tilt="0" skinid="ht_node"/>
-      <hotspot id="Point03" url="{node27}" description="" target="$fwd" title="USTP" pan="180.781" distance="13.7741" tilt="-0.75" skinid="ht_node"/>
+      <hotspot id="Point03" url="{node27}" description="" target="$fwd" title="USTP" pan="181.751" distance="13.7741" tilt="1.28" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomafterinfov="80" zoomfov="40" zoomafteroutfov="20" type="crossdissolve" softedge="0" blendtime="1" zoomspeed="8" zoomin="2" blendcolor="0x000000" enabled="1" zoomout="2"/>
@@ -226,7 +226,7 @@
     <hotspots width="500" wordwrap="1" height="500">
       <label border="1" background="1" width="500" backgroundalpha="1" wordwrap="1" height="500" borderalpha="1" textcolor="0x000000" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot id="Point01" url="{node6}" description="" target="167.3/-11.3/100.0" title="USTP" pan="-25.68" distance="17.787" tilt="-7.9" skinid="ht_node"/>
+      <hotspot id="Point01" url="{node6}" description="" target="167.3/-11.3/100.0" title="USTP" pan="-24.85" distance="17.787" tilt="-6.92" skinid="ht_node"/>
       <hotspot id="Point02" url="{node4}" description="" target="$fwd" title="USTP" pan="154.786" distance="18.3382" tilt="-3.62" skinid="ht_node"/>
     </hotspots>
     <media/>
@@ -942,8 +942,8 @@
     <hotspots width="500" wordwrap="1" height="500">
       <label border="1" background="1" width="500" backgroundalpha="1" wordwrap="1" height="500" borderalpha="1" textcolor="0x000000" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot id="Point01" url="{node29}" description="" target="$fwd" title="USTP" pan="-53.4641" distance="10.0222" tilt="2.38" skinid="ht_node"/>
-      <hotspot id="Point02" url="{node1}" description="" target="$fwd" title="Admin" pan="-355.299" distance="19.6446" tilt="2.12" skinid="ht_node"/>
+      <hotspot id="Point01" url="{node29}" description="" target="$fwd" title="USTP" pan="-44.6841" distance="10.0222" tilt="0.52" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node1}" description="" target="$fwd" title="Admin" pan="-355.769" distance="19.6446" tilt="4.22" skinid="ht_node"/>
       <hotspot id="Point04" url="{node31}" description="" target="$fwd" title="USTP" pan="111.7" distance="13.0644" tilt="-2.48" skinid="ht_node"/>
     </hotspots>
     <media/>
@@ -972,9 +972,9 @@
       <label border="1" background="1" width="500" backgroundalpha="1" wordwrap="1" height="500" borderalpha="1" textcolor="0x000000" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot id="Point01" url="{node32}" description="" target="$fwd" title="USTP" pan="-175.264" distance="12.3615" tilt="0" skinid="ht_node"/>
-      <hotspot id="Point02" url="{node30}" description="" target="$fwd" title="USTP" pan="-72.1462" distance="13.0644" tilt="0" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node30}" description="" target="$fwd" title="USTP" pan="-72.6262" distance="13.0644" tilt="0.81" skinid="ht_node"/>
       <hotspot id="Point03" url="{node78}" description="" target="$fwd" title="USTP" pan="105.455" distance="25.6716" tilt="-0.82" skinid="ht_node"/>
-      <hotspot id="Point05" url="{node135}" description="" target="$fwd" title="USTP" pan="11.3665" distance="55.9399" tilt="3.12" skinid="ht_node"/>
+      <hotspot id="Point05" url="{node135}" description="" target="$fwd" title="USTP" pan="12.8465" distance="55.9399" tilt="3.5" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomafterinfov="80" zoomfov="40" zoomafteroutfov="20" type="crossdissolve" softedge="0" blendtime="1" zoomspeed="8" zoomin="2" blendcolor="0x000000" enabled="1" zoomout="2"/>
@@ -1002,7 +1002,7 @@
       <label border="1" background="1" width="500" backgroundalpha="1" wordwrap="1" height="500" borderalpha="1" textcolor="0x000000" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot id="Point02" url="{node31}" description="" target="$fwd" title="USTP" pan="-26.1436" distance="12.3615" tilt="-12.36" skinid="ht_node"/>
-      <hotspot id="Point03" url="{node70}" description="" target="$fwd" title="USTP" pan="67.4319" distance="29.5397" tilt="0" skinid="ht_node"/>
+      <hotspot id="Point03" url="{node70}" description="" target="$fwd" title="USTP" pan="66.6319" distance="29.5397" tilt="-5.78" skinid="ht_node"/>
       <hotspot id="Point04" url="{node33}" description="" target="$fwd" title="USTP" pan="-210.908" distance="12.8295" tilt="-0.56" skinid="ht_node"/>
     </hotspots>
     <media/>
@@ -1032,7 +1032,7 @@
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot id="Point01" url="{node77}" description="" target="$fwd" title="USTP" pan="74.5355" distance="17.0308" tilt="0" skinid="ht_node"/>
       <hotspot id="Point02" url="{node34}" description="" target="$fwd" title="USTP" pan="-203.499" distance="16.272" tilt="0" skinid="ht_node"/>
-      <hotspot id="Point03" url="{node32}" description="" target="$fwd" title="USTP" pan="-23.0947" distance="12.8295" tilt="0" skinid="ht_node"/>
+      <hotspot id="Point03" url="{node32}" description="" target="$fwd" title="USTP" pan="-25.0347" distance="12.8295" tilt="-4.49" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomafterinfov="80" zoomfov="40" zoomafteroutfov="20" type="crossdissolve" softedge="0" blendtime="1" zoomspeed="8" zoomin="2" blendcolor="0x000000" enabled="1" zoomout="2"/>
@@ -1042,7 +1042,7 @@
     <control simulatemass="1" rubberband="0" invertcontrol="1" hideabout="0" sensitivity="8" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0"/>
   </panorama>
   <panorama id="node34">
-    <input levelbiashidpi="1.000" overlap="1" width="760" leveltilesize="510" height="760" levelingpitch="7.26885" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0.267912" levelbias="0.400">
+    <input levelbiashidpi="1.000" overlap="1" width="760" leveltilesize="510" height="760" levelingpitch="10.7763" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0.275593" levelbias="0.400">
       <level preload="0" width="760" predecode="0" height="760"/>
       <level preload="1" width="380" predecode="1" height="380"/>
       <preview strip="1" color="0x808080"/>
@@ -1059,8 +1059,8 @@
     <hotspots width="500" wordwrap="1" height="500">
       <label border="1" background="1" width="500" backgroundalpha="1" wordwrap="1" height="500" borderalpha="1" textcolor="0x000000" borderradius="1" enabled="1" backgroundcolor="0xffffff" bordercolor="0x000000" textalpha="1"/>
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
-      <hotspot id="Point01" url="{node35}" description="" target="$fwd" title="USTP" pan="67.5433" distance="10.3752" tilt="0" skinid="ht_node"/>
-      <hotspot id="Point02" url="{node33}" description="" target="$fwd" title="USTP" pan="-90.6078" distance="16.272" tilt="0" skinid="ht_node"/>
+      <hotspot id="Point01" url="{node35}" description="" target="$fwd" title="USTP" pan="70.6733" distance="10.3752" tilt="-3.7" skinid="ht_node"/>
+      <hotspot id="Point02" url="{node33}" description="" target="$fwd" title="USTP" pan="-84.5178" distance="16.272" tilt="-2.31" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomafterinfov="80" zoomfov="40" zoomafteroutfov="20" type="crossdissolve" softedge="0" blendtime="1" zoomspeed="8" zoomin="2" blendcolor="0x000000" enabled="1" zoomout="2"/>
@@ -1739,7 +1739,7 @@
     <control simulatemass="1" rubberband="0" invertcontrol="1" hideabout="0" sensitivity="8" invertwheel="0" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" contextvr="1" lockedmouse="0" speedwheel="1" lockedkeyboardzoom="0" dblclickfullscreen="0" contextprojections="0"/>
   </panorama>
   <panorama id="node62">
-    <input levelbiashidpi="1.000" overlap="1" width="760" leveltilesize="510" height="760" levelingpitch="23.5321" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-3.36441" levelbias="0.400">
+    <input levelbiashidpi="1.000" overlap="1" width="760" leveltilesize="510" height="760" levelingpitch="16.9198" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="-1.67274" levelbias="0.400">
       <level preload="0" width="760" predecode="0" height="760"/>
       <level preload="1" width="380" predecode="1" height="380"/>
       <preview strip="1" color="0x808080"/>
@@ -1935,7 +1935,7 @@
       <hotspot id="Point01" url="{node32}" description="" target="$fwd" title="USTP" pan="568.793" distance="29.5397" tilt="-3.61" skinid="ht_node"/>
       <hotspot id="Point02" url="{node67}" description="" target="$fwd" title="USTP" pan="746.62" distance="7.88949" tilt="0" skinid="ht_node"/>
       <hotspot id="Point03" url="{node71}" description="" target="$fwd" title="USTP" pan="479.61" distance="13.5602" tilt="0.33" skinid="ht_node"/>
-      <hotspot id="Point04" url="{node77}" description="" target="$fwd" title="USTP" pan="535.622" distance="17.0685" tilt="2.63" skinid="ht_node"/>
+      <hotspot id="Point04" url="{node77}" description="" target="$fwd" title="USTP" pan="533.402" distance="17.0685" tilt="3.44" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomafterinfov="80" zoomfov="40" zoomafteroutfov="20" type="crossdissolve" softedge="0" blendtime="1" zoomspeed="8" zoomin="2" blendcolor="0x000000" enabled="1" zoomout="2"/>
@@ -2768,7 +2768,6 @@
       <hotspot id="Point01" url="{node100}" description="" target="$fwd" title="USTP" pan="104.234" distance="5.05509" tilt="0" skinid="ht_node"/>
       <hotspot id="Point02" url="{node98}" description="" target="$fwd" title="USTP" pan="277.875" distance="21.4314" tilt="-1.34" skinid="ht_node"/>
       <hotspot id="Point03" url="{node87}" description="" target="$fwd" title="USTP" pan="364.864" distance="24.4934" tilt="0" skinid="ht_node"/>
-      <hotspot id="Point04" url="{node101}" description="" target="$fwd" title="USTP" pan="168.079" distance="34.6258" tilt="3.06" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomafterinfov="80" zoomfov="40" zoomafteroutfov="20" type="crossdissolve" softedge="0" blendtime="1" zoomspeed="8" zoomin="2" blendcolor="0x000000" enabled="1" zoomout="2"/>
@@ -2827,7 +2826,6 @@
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff"/>
       <hotspot id="Point01" url="{node103}" description="" target="$fwd" title="USTP" pan="53.093" distance="24.2546" tilt="0" skinid="ht_node"/>
       <hotspot id="Point02" url="{node100}" description="" target="$fwd" title="USTP" pan="234.637" distance="33.7914" tilt="-0.85" skinid="ht_node"/>
-      <hotspot id="Point03" url="{node99}" description="" target="$fwd" title="USTP" pan="221.638" distance="34.6258" tilt="0" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomafterinfov="80" zoomfov="40" zoomafteroutfov="20" type="crossdissolve" softedge="0" blendtime="1" zoomspeed="8" zoomin="2" blendcolor="0x000000" enabled="1" zoomout="2"/>
