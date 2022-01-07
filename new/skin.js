@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.13/18080
 // Filename: ustp.ggsk
-// Generated 2022-01-07T13:48:25
+// Generated 2022-01-07T14:02:20
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -10999,7 +10999,7 @@ function pano2vrSkin(player,base) {
 		hs+='position : absolute;';
 		hs+='right : 0px;';
 		hs+='visibility : inherit;';
-		hs+='width : 169px;';
+		hs+='width : 180px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style[domTransform + 'Origin']='50% 50%';

@@ -3208,12 +3208,10 @@
       <polystyle backgroundalpha="0.25098" mode="1" borderalpha="1" handcursor="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff"/>
       <hotspot title="USTP" target="$fwd" tilt="-1.43" distance="17.915" pan="-263.005" id="Point01" skinid="ht_node" description="" url="{node116}"/>
       <hotspot title="USTP" target="$fwd" tilt="0" distance="10.5875" pan="-172.338" id="Point02" skinid="ht_node" description="" url="{node106}"/>
-      <hotspot title="USTP" target="$fwd" tilt="0" distance="28.3318" pan="-279.242" id="Point03" skinid="ht_node" description="" url="{node110}"/>
-      <hotspot title="USTP" target="$fwd" tilt="0" distance="10.7091" pan="-303.715" id="Point04" skinid="ht_node" description="" url="{node111}"/>
+      <hotspot title="USTP" target="$fwd" tilt="1.06" distance="28.3318" pan="-279.982" id="Point03" skinid="ht_node" description="" url="{node110}"/>
       <hotspot title="USTP" target="$fwd" tilt="0" distance="7.67554" pan="-373.241" id="Point05" skinid="ht_node" description="" url="{node112}"/>
-      <hotspot title="USTP" target="$fwd" tilt="0.26" distance="14.0743" pan="-403.005" id="Point06" skinid="ht_node" description="" url="{node113}"/>
-      <hotspot title="USTP" target="$fwd" tilt="0" distance="23.6295" pan="-424.663" id="Point07" skinid="ht_node" description="" url="{node114}"/>
-      <hotspot title="USTP" target="$fwd" tilt="-0.92" distance="32.6265" pan="-443.575" id="Point08" skinid="ht_node" description="" url="{node63}"/>
+      <hotspot title="USTP" target="$fwd" tilt="0.35" distance="23.6295" pan="-423.223" id="Point07" skinid="ht_node" description="" url="{node114}"/>
+      <hotspot title="USTP" target="$fwd" tilt="-1.61" distance="32.6265" pan="-445.345" id="Point08" skinid="ht_node" description="" url="{node63}"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="0" zoomfov="40" zoomafterinfov="80" zoomafteroutfov="20" softedge="0" type="crossdissolve" blendcolor="0x000000" zoomspeed="8" blendtime="1" zoomin="2" enabled="1" zoomout="2"/>
