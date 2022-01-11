@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tour apprev="18080" start="node56" appversion="6.1.13">
-  <panorama id="node56">
+  <panorama hideabout="1" id="node56">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.31428" levelingpitch="18.2395" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -28,9 +28,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node133">
+  <panorama hideabout="1" id="node133">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node133/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -59,9 +61,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node118">
+  <panorama hideabout="1" id="node118">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node118/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -93,9 +97,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node1">
+  <panorama hideabout="1" id="node1">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.37241" levelingpitch="25.4425" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -126,9 +132,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node2">
+  <panorama hideabout="1" id="node2">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.07428419999999999" levelingpitch="21.3649" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -157,9 +165,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node3">
+  <panorama hideabout="1" id="node3">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.757139" levelingpitch="15.6815" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -189,9 +199,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node4">
+  <panorama hideabout="1" id="node4">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.193715" levelingpitch="21.0832" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -220,9 +232,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node5">
+  <panorama hideabout="1" id="node5">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.343806" levelingpitch="20.9289" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -250,9 +264,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node6">
+  <panorama hideabout="1" id="node6">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.00691207" levelingpitch="11.844" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -281,9 +297,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node7">
+  <panorama hideabout="1" id="node7">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-2.12252" levelingpitch="19.0914" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -312,9 +330,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node8">
+  <panorama hideabout="1" id="node8">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-3.74976" levelingpitch="17.8147" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -343,9 +363,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node9">
+  <panorama hideabout="1" id="node9">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="2.14952" levelingpitch="15.0852" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -374,9 +396,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node10">
+  <panorama hideabout="1" id="node10">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-3.65463" levelingpitch="10.2531" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -405,9 +429,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node11">
+  <panorama hideabout="1" id="node11">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.826255" levelingpitch="14.0404" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -437,9 +463,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node12">
+  <panorama hideabout="1" id="node12">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.37818" levelingpitch="22.302" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -469,9 +497,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node13">
+  <panorama hideabout="1" id="node13">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.787029" levelingpitch="12.079" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -500,9 +530,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node14">
+  <panorama hideabout="1" id="node14">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.31429" levelingpitch="12.1795" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -530,9 +562,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node15">
+  <panorama hideabout="1" id="node15">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.306035" levelingpitch="13.203" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -562,9 +596,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node16">
+  <panorama hideabout="1" id="node16">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.543024" levelingpitch="14.506" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -592,9 +628,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node17">
+  <panorama hideabout="1" id="node17">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-2.86358" levelingpitch="7.56321" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -621,9 +659,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node18">
+  <panorama hideabout="1" id="node18">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.51804" levelingpitch="-0.387648" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -653,9 +693,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node19">
+  <panorama hideabout="1" id="node19">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node19/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-5.70391" levelingpitch="8.201980000000001" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -683,9 +725,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node20">
+  <panorama hideabout="1" id="node20">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node20/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.67841" levelingpitch="6.00332" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -713,9 +757,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node21">
+  <panorama hideabout="1" id="node21">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node21/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-2.62587" levelingpitch="7.09152" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -743,9 +789,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node22">
+  <panorama hideabout="1" id="node22">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node22/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.23621" levelingpitch="10.7352" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -772,9 +820,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node23">
+  <panorama hideabout="1" id="node23">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node23/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.808545" levelingpitch="2.82637" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -801,9 +851,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node24">
+  <panorama hideabout="1" id="node24">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node24/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="2.58167" levelingpitch="20.6503" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -831,9 +883,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node25">
+  <panorama hideabout="1" id="node25">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node25/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.206523" levelingpitch="13.6117" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -862,9 +916,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node26">
+  <panorama hideabout="1" id="node26">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node26/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.37771" levelingpitch="9.3223" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -892,9 +948,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node27">
+  <panorama hideabout="1" id="node27">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node27/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.548426" levelingpitch="7.15478" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -923,9 +981,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node28">
+  <panorama hideabout="1" id="node28">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node28/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-3.00698" levelingpitch="12.8158" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -954,9 +1014,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node29">
+  <panorama hideabout="1" id="node29">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node29/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.20166" levelingpitch="15.5832" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -986,9 +1048,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node30">
+  <panorama hideabout="1" id="node30">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node30/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.409701" levelingpitch="15.4078" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1017,9 +1081,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node31">
+  <panorama hideabout="1" id="node31">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node31/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.326595" levelingpitch="14.4534" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1049,9 +1115,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node32">
+  <panorama hideabout="1" id="node32">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node32/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-3.92974" levelingpitch="13.0938" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1080,9 +1148,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node33">
+  <panorama hideabout="1" id="node33">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node33/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.77603" levelingpitch="10.3524" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1111,9 +1181,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node34">
+  <panorama hideabout="1" id="node34">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node34/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.275593" levelingpitch="10.7763" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1141,9 +1213,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node35">
+  <panorama hideabout="1" id="node35">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node35/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.9486560000000001" levelingpitch="11.5471" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1172,9 +1246,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node36">
+  <panorama hideabout="1" id="node36">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node36/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="2.71843" levelingpitch="10.2552" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1204,9 +1280,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node37">
+  <panorama hideabout="1" id="node37">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node37/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="1.62626" levelingpitch="10.9788" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1236,9 +1314,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node38">
+  <panorama hideabout="1" id="node38">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node38/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="1.45079" levelingpitch="11.0466" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1267,9 +1347,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node39">
+  <panorama hideabout="1" id="node39">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node39/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.568905" levelingpitch="12.0411" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1297,9 +1379,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node40">
+  <panorama hideabout="1" id="node40">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node40/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-2.60644" levelingpitch="11.0061" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1328,9 +1412,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node41">
+  <panorama hideabout="1" id="node41">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node41/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.503058" levelingpitch="12.4062" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1358,9 +1444,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node42">
+  <panorama hideabout="1" id="node42">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node42/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-3.23017" levelingpitch="32.5549" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1389,9 +1477,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node43">
+  <panorama hideabout="1" id="node43">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node43/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="7.09171" levelingpitch="26.827" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1422,9 +1512,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node44">
+  <panorama hideabout="1" id="node44">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node44/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.369937" levelingpitch="20.5816" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1454,9 +1546,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node45">
+  <panorama hideabout="1" id="node45">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.92766" levelingpitch="23.0537" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1485,9 +1579,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node47">
+  <panorama hideabout="1" id="node47">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="1.42598" levelingpitch="12.5738" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1515,9 +1611,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node48">
+  <panorama hideabout="1" id="node48">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.959619" levelingpitch="14.9097" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1546,9 +1644,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node50">
+  <panorama hideabout="1" id="node50">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.83097" levelingpitch="26.2054" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1576,9 +1676,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node51">
+  <panorama hideabout="1" id="node51">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node51/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.268478" levelingpitch="23.3201" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1607,9 +1709,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node52">
+  <panorama hideabout="1" id="node52">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.5053530000000001" levelingpitch="21.3123" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1638,9 +1742,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node53">
+  <panorama hideabout="1" id="node53">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="1.52075" levelingpitch="20.321" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1669,9 +1775,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node54">
+  <panorama hideabout="1" id="node54">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-2.35124" levelingpitch="21.545" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1699,9 +1807,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node55">
+  <panorama hideabout="1" id="node55">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.562917" levelingpitch="23.0428" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1730,9 +1840,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node58">
+  <panorama hideabout="1" id="node58">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.630664" levelingpitch="17.6271" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1761,9 +1873,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node59">
+  <panorama hideabout="1" id="node59">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="2.27188" levelingpitch="25.6876" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1793,9 +1907,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node60">
+  <panorama hideabout="1" id="node60">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-4.80224" levelingpitch="20.8379" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1825,9 +1941,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node61">
+  <panorama hideabout="1" id="node61">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.140831" levelingpitch="23.7561" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1856,9 +1974,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node62">
+  <panorama hideabout="1" id="node62">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.67274" levelingpitch="16.9198" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1885,9 +2005,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node63">
+  <panorama hideabout="1" id="node63">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.24232" levelingpitch="10.7931" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1918,9 +2040,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node64">
+  <panorama hideabout="1" id="node64">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.691157" levelingpitch="12.7174" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1950,9 +2074,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node65">
+  <panorama hideabout="1" id="node65">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node65/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="4.69422" levelingpitch="18.2075" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -1982,9 +2108,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node66">
+  <panorama hideabout="1" id="node66">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node66/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.170596" levelingpitch="10.3014" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2012,9 +2140,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node67">
+  <panorama hideabout="1" id="node67">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node67/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="1.61822" levelingpitch="14.7904" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2044,9 +2174,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node70">
+  <panorama hideabout="1" id="node70">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node70/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="1.1907" levelingpitch="15.4295" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2076,9 +2208,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node71">
+  <panorama hideabout="1" id="node71">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node71/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-2.79767" levelingpitch="19.257" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2108,9 +2242,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node72">
+  <panorama hideabout="1" id="node72">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node72/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.121" levelingpitch="15.847" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2139,9 +2275,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node73">
+  <panorama hideabout="1" id="node73">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node73/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-2.59483" levelingpitch="11.801" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2170,9 +2308,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node74">
+  <panorama hideabout="1" id="node74">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node74/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-2.40403" levelingpitch="9.495609999999999" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2202,9 +2342,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node75">
+  <panorama hideabout="1" id="node75">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node75/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-1.70756" levelingpitch="12.7697" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2232,9 +2374,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node76">
+  <panorama hideabout="1" id="node76">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node76/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="1.9596" levelingpitch="9.084199999999999" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2264,9 +2408,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node77">
+  <panorama hideabout="1" id="node77">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node77/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.939648" levelingpitch="-5.99653" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2296,9 +2442,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node78">
+  <panorama hideabout="1" id="node78">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node78/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.493779" levelingpitch="8.4444" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2326,9 +2474,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node79">
+  <panorama hideabout="1" id="node79">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node79/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-4.29019" levelingpitch="15.4594" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2356,9 +2506,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node80">
+  <panorama hideabout="1" id="node80">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node80/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-3.90653" levelingpitch="21.7396" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2386,9 +2538,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node81">
+  <panorama hideabout="1" id="node81">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node81/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.248261" levelingpitch="16.6698" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2417,9 +2571,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node82">
+  <panorama hideabout="1" id="node82">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node82/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.363868" levelingpitch="19.9485" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2447,9 +2603,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node83">
+  <panorama hideabout="1" id="node83">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node83/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.857009" levelingpitch="28.7344" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2476,9 +2634,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node84">
+  <panorama hideabout="1" id="node84">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node84/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.919455" levelingpitch="6.16383" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2507,9 +2667,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node85">
+  <panorama hideabout="1" id="node85">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node85/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.54084" levelingpitch="8.666650000000001" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2538,9 +2700,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node86">
+  <panorama hideabout="1" id="node86">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node86/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.898096" levelingpitch="7.43349" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2569,9 +2733,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node87">
+  <panorama hideabout="1" id="node87">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node87/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.138899" levelingpitch="6.76226" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2601,9 +2767,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node88">
+  <panorama hideabout="1" id="node88">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node88/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2632,9 +2800,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node89">
+  <panorama hideabout="1" id="node89">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node89/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2663,9 +2833,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node90">
+  <panorama hideabout="1" id="node90">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node90/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2692,9 +2864,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node91">
+  <panorama hideabout="1" id="node91">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node91/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2722,9 +2896,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node92">
+  <panorama hideabout="1" id="node92">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node92/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2753,9 +2929,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node93">
+  <panorama hideabout="1" id="node93">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node93/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2784,9 +2962,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node94">
+  <panorama hideabout="1" id="node94">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node94/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2815,9 +2995,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node95">
+  <panorama hideabout="1" id="node95">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node95/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2845,9 +3027,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node96">
+  <panorama hideabout="1" id="node96">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node96/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2875,9 +3059,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node97">
+  <panorama hideabout="1" id="node97">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node97/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2905,9 +3091,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node98">
+  <panorama hideabout="1" id="node98">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node98/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2935,9 +3123,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node99">
+  <panorama hideabout="1" id="node99">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node99/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2966,9 +3156,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node100">
+  <panorama hideabout="1" id="node100">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node100/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -2998,9 +3190,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node101">
+  <panorama hideabout="1" id="node101">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node101/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3028,9 +3222,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node103">
+  <panorama hideabout="1" id="node103">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node103/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3059,9 +3255,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node104">
+  <panorama hideabout="1" id="node104">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node104/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3090,9 +3288,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node105">
+  <panorama hideabout="1" id="node105">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node105/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3122,9 +3322,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node106">
+  <panorama hideabout="1" id="node106">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node106/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3152,9 +3354,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node107">
+  <panorama hideabout="1" id="node107">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node107/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3182,9 +3386,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node108">
+  <panorama hideabout="1" id="node108">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node108/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3214,9 +3420,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node109">
+  <panorama hideabout="1" id="node109">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node109/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3245,9 +3453,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node110">
+  <panorama hideabout="1" id="node110">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node110/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3280,9 +3490,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node111">
+  <panorama hideabout="1" id="node111">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node111/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3311,9 +3523,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node112">
+  <panorama hideabout="1" id="node112">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node112/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3342,9 +3556,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node113">
+  <panorama hideabout="1" id="node113">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node113/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3373,9 +3589,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node114">
+  <panorama hideabout="1" id="node114">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node114/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3406,9 +3624,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node115">
+  <panorama hideabout="1" id="node115">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node115/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3440,9 +3660,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node116">
+  <panorama hideabout="1" id="node116">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node116/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3473,9 +3695,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node117">
+  <panorama hideabout="1" id="node117">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node117/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3506,9 +3730,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node119">
+  <panorama hideabout="1" id="node119">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node119/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3539,9 +3765,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node120">
+  <panorama hideabout="1" id="node120">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node120/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3570,9 +3798,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node121">
+  <panorama hideabout="1" id="node121">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node121/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3602,9 +3832,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node122">
+  <panorama hideabout="1" id="node122">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node122/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3634,9 +3866,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node123">
+  <panorama hideabout="1" id="node123">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node123/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3665,9 +3899,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node124">
+  <panorama hideabout="1" id="node124">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node124/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3697,9 +3933,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node125">
+  <panorama hideabout="1" id="node125">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node125/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3728,9 +3966,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node126">
+  <panorama hideabout="1" id="node126">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node126/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3760,9 +4000,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node127">
+  <panorama hideabout="1" id="node127">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node127/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-0.145231" levelingpitch="3.65063" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3793,9 +4035,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node128">
+  <panorama hideabout="1" id="node128">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node128/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="-4.15158" levelingpitch="3.12277" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3825,9 +4069,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node129">
+  <panorama hideabout="1" id="node129">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node129/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3857,9 +4103,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node131">
+  <panorama hideabout="1" id="node131">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node131/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0.841129" levelingpitch="10.7835" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3888,9 +4136,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node132">
+  <panorama hideabout="1" id="node132">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node132/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="2.57829" levelingpitch="11.8916" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3920,9 +4170,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node135">
+  <panorama hideabout="1" id="node135">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node135/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3952,9 +4204,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node136">
+  <panorama hideabout="1" id="node136">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node136/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -3980,9 +4234,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node137">
+  <panorama hideabout="1" id="node137">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node137/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -4010,9 +4266,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node138">
+  <panorama hideabout="1" id="node138">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node138/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -4038,9 +4296,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node139">
+  <panorama hideabout="1" id="node139">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node139/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -4070,9 +4330,11 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
-  <panorama id="node140">
+  <panorama hideabout="1" id="node140">
     <input leveltilesize="510" levelbias="0.400" leveltileurl="tiles/node140/cf_%c/l_%l/c_%x/tile_%y.jpg" height="1520" width="1520" levelbiashidpi="1.000" levelingroll="0" levelingpitch="0" overlap="1">
       <level preload="0" height="1520" width="1520" predecode="0"/>
       <level preload="0" height="760" width="760" predecode="0"/>
@@ -4103,7 +4365,9 @@
     <autorotate noderandom="1" nodedelay="0.00" speed="0.100" returntohorizon="10.000" enabled="1" delay="10.00" startloaded="0" nodefilter="" useanimation="0"/>
     <flyintransition speed="4.00" enabled="1"/>
     <animation useinautorotation="0" animsequence="Animation01" syncanimationwithvideo="0"/>
-    <control dblclickfullscreen="0" hideabout="0" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0"/>
+    <control dblclickfullscreen="0" hideabout="1" lockedwheel="0" invertwheel="0" invertcontrol="1" simulatemass="1" lockedkeyboardzoom="0" speedwheel="1" sensitivity="8" contextvr="1" rubberband="0" lockedkeyboard="0" contextfullscreen="1" lockedmouse="0" contextprojections="0">
+      <menulink text="Click here to create your own virtual tour for your business!" url="https://compiled.social/djrixg"/>
+    </control>
   </panorama>
   <masternode>
     <userdata nodeid="master" title="" tags="" longitude="" source="" comment="" description="Virtual Tour by Ericke Gallardo" info="" heading="0" author="Ericke Gallardo" datetime="" latitude="" copyright="2022" customnodeid=""/>
