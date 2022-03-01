@@ -19,7 +19,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="217.253" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="25.1863" id="Point01" description="" title="IMG_20220224_150421_00_041.insp" pan="54.356" skinid="ht_node" tilt="8.31819" target="$fwd" url="{node6}"/>
       <hotspot distance="25.9787" id="Point02" description="" title="IMG_20220224_150130_00_040.insp" pan="154.91" skinid="ht_node" tilt="-1.45676" target="$fwd" url="{node7}"/>
@@ -52,7 +52,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="16.9197" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="16.9197" id="Point01" description="" title="IMG_20220224_111847_00_030.insp" pan="-110.366" skinid="ht_node" tilt="0.132404" target="$fwd" url="{node43}"/>
       <hotspot id="Point02" description="" title="USTP Cagayan de Oro Virtual Tour 4K" pan="-43.97" skinid="ht_video_youtube" tilt="16.04" target="" url="NzW9TKP4Ia8"/>
@@ -83,7 +83,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot id="Point01" description="" title="IMG_20220224_113021_00_036.insp" pan="31.6092" skinid="ht_node" tilt="2.32" target="$fwd" url="{node37}"/>
     </hotspots>
@@ -113,7 +113,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="67.6574" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="33.8896" id="Point01" description="" title="IMG_20220224_114111_00_043.insp" pan="293.799" skinid="ht_node" tilt="-6.86972" target="$fwd" url="{node31}"/>
     </hotspots>
@@ -143,7 +143,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="43.7367" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="19.7423" id="Point01" description="" title="IMG_20220224_113905_00_042.insp" pan="-63.1966" skinid="ht_node" tilt="0.18" target="$fwd" url="{node32}"/>
       <hotspot distance="23.9183" id="Point02" description="" title="IMG_20220224_114111_00_043.insp" pan="-111.824" skinid="ht_node" tilt="0.8" target="$fwd" url="{node31}"/>
@@ -175,7 +175,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="16.9197" id="Point01" description="" title="Entrance" pan="55.9746" skinid="ht_node" tilt="3.7276" target="$fwd" url="{node1}"/>
       <hotspot distance="30.7493" id="Point02" description="" title="IMG_20220224_112121_00_031.insp" pan="213.241" skinid="ht_node" tilt="-2.88194" target="$fwd" url="{node42}"/>
@@ -206,7 +206,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="30.7493" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="30.7493" id="Point01" description="" title="IMG_20220224_111847_00_030.insp" pan="49.8514" skinid="ht_node" tilt="0.421937" target="$fwd" url="{node43}"/>
       <hotspot distance="7.45713" id="Point02" description="" title="IMG_20220224_112209_00_032.insp" pan="-51.46" skinid="ht_node" tilt="1.11" target="-51.9/14.5/100.0" url="{node41}"/>
@@ -239,7 +239,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="32.0518" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="7.45713" id="Point01" description="" title="IMG_20220224_112121_00_031.insp" pan="-235.295" skinid="ht_node" tilt="-6.20314" target="$fwd" url="{node42}"/>
     </hotspots>
@@ -269,7 +269,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="53.939" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="23.6429" id="Point01" description="" title="IMG_20220224_112121_00_031.insp" pan="-287.565" skinid="ht_node" tilt="-0.9" target="$fwd" url="{node42}"/>
       <hotspot distance="30.0131" id="Point02" description="" title="IMG_20220224_112506_00_034.insp" pan="-97.9604" skinid="ht_node" tilt="0.954556" target="$fwd" url="{node39}"/>
@@ -302,7 +302,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="81.6553" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="30.0131" id="Point01" description="" title="IMG_20220224_112335_00_033.insp" pan="-275.82" skinid="ht_node" tilt="-0.954556" target="$fwd" url="{node40}"/>
       <hotspot distance="51.861" id="Point02" description="" title="Flagpole" pan="-97.0027" skinid="ht_node" tilt="1.5469" target="$fwd" url="{node38}"/>
@@ -334,7 +334,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="132.138" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="26.5614" id="Point01" description="" title="IMG_20220224_113021_00_036.insp" pan="-1.72588" skinid="ht_node" tilt="4.57" target="$fwd" url="{node37}"/>
       <hotspot distance="51.861" id="Point02" description="" title="IMG_20220224_112506_00_034.insp" pan="-95.9838" skinid="ht_node" tilt="-1.5469" target="$fwd" url="{node39}"/>
@@ -366,7 +366,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="140.248" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="26.5614" id="Point01" description="" title="Flagpole" pan="106.197" skinid="ht_node" tilt="-6.08713" target="$fwd" url="{node38}"/>
       <hotspot distance="23.2122" id="Point02" description="" title="IMG_20220224_113138_00_037.insp" pan="-83.9178" skinid="ht_node" tilt="-0.493676" target="$fwd" url="{node36}"/>
@@ -398,7 +398,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="145.841" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="23.2122" id="Point01" description="" title="IMG_20220224_113021_00_036.insp" pan="-7.92863" skinid="ht_node" tilt="0.493676" target="$fwd" url="{node37}"/>
       <hotspot distance="51.1415" id="Point02" description="" title="IMG_20220224_113320_00_038.insp" pan="-247.3" skinid="ht_node" tilt="-2.56235" target="$fwd" url="{node35}"/>
@@ -429,7 +429,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="120.878" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="31.5244" id="Point01" description="" title="IMG_20220224_113612_00_040.insp" pan="257.699" skinid="ht_node" tilt="-5.64339" target="$fwd" url="{node34}"/>
       <hotspot distance="12.7282" id="Point02" description="" title="Administration Building" pan="-37.5002" skinid="ht_node" tilt="-7.67546" target="$fwd" url="{node28}"/>
@@ -462,7 +462,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="94.3275" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="55.9921" id="Point01" description="" title="IMG_20220224_112335_00_033.insp" pan="-0.795728" skinid="ht_node" tilt="-0.0216484" target="$fwd" url="{node40}"/>
       <hotspot distance="29.4197" id="Point02" description="" title="IMG_20220224_115039_00_045.insp" pan="-279.24" skinid="ht_node" tilt="0.194753" target="$fwd" url="{node29}"/>
@@ -495,7 +495,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="62.9255" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="15.0761" id="Point01" description="" title="IMG_20220224_115039_00_045.insp" pan="358.149" skinid="ht_node" tilt="-2.14" target="$fwd" url="{node29}"/>
       <hotspot distance="27.5743" id="Point02" description="" title="IMG_20220224_114111_00_043.insp" pan="-78.3318" skinid="ht_node" tilt="-1.87041" target="$fwd" url="{node31}"/>
@@ -529,7 +529,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="59.0683" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="30.2474" id="Point01" description="" title="IMG_20220224_115039_00_045.insp" pan="-101.173" skinid="ht_node" tilt="2.27368" target="$fwd" url="{node29}"/>
       <hotspot distance="27.5743" id="Point02" description="" title="IMG_20220224_113905_00_042.insp" pan="-71.386" skinid="ht_node" tilt="1.87041" target="$fwd" url="{node32}"/>
@@ -562,7 +562,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="76.78" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="29.4197" id="Point01" description="" title="IMG_20220224_113612_00_040.insp" pan="-89.4657" skinid="ht_node" tilt="-0.194753" target="$fwd" url="{node34}"/>
       <hotspot distance="15.0761" id="Point02" description="" title="IMG_20220224_113905_00_042.insp" pan="6.75193" skinid="ht_node" tilt="0.94" target="$fwd" url="{node32}"/>
@@ -594,7 +594,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="122.137" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="28.4302" id="Point01" description="" title="IMG_20220224_113612_00_040.insp" pan="48.9939" skinid="ht_node" tilt="-2.82258" target="$fwd" url="{node34}"/>
       <hotspot distance="12.7282" id="Point02" description="" title="IMG_20220224_113320_00_038.insp" pan="-42.5054" skinid="ht_node" tilt="7.67546" target="$fwd" url="{node35}"/>
@@ -626,7 +626,7 @@
     <userdata latitude="8.48598556" nodeid="node27" altitude="8.50" description="" tags="USTP CDO VTour" title="IMG_20220224_115344_00_047.insp" longitude="124.65719581" info="" copyright="Ericke Gallardo" source="" datetime="" customnodeid="" author="Ericke Gallardo" comment="" heading="-33.7899"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="141.191" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="19.0685" id="Point01" description="" title="Administration Building" pan="114.083" skinid="ht_node" tilt="-0.600958" target="$fwd" url="{node28}"/>
     </hotspots>
@@ -656,7 +656,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="163.211" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="50.1861" id="Point01" description="" title="Administration Building" pan="-84.4572" skinid="ht_node" tilt="0.799192" target="$fwd" url="{node28}"/>
       <hotspot distance="13.5445" id="Point02" description="" title="IMG_20220224_143315_00_026.insp" pan="167.583" skinid="ht_node" tilt="11.0672" target="$fwd" url="{node20}"/>
@@ -690,12 +690,16 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="162.56" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="39.4923" id="Point01" description="" title="IMG_20220224_115456_00_048.insp" pan="-27.4928" skinid="ht_node" tilt="-4.13875" target="$fwd" url="{node26}"/>
-      <hotspot distance="6.77201" id="Point04" description="" title="ICT 3rd floor" pan="-162.42" skinid="ht_node" tilt="34.14" target="$fwd" url="{node63}"/>
       <hotspot distance="28.9731" id="Point05" description="" title="IMG_20220224_145926_00_038.insp" pan="-238.708" skinid="ht_node" tilt="-4.72965" target="$fwd" url="{node9}"/>
-      <hotspot distance="11.0459" id="Point06" description="" title="ICT AVR" pan="-176.815" skinid="ht_node" tilt="47.6565" target="$fwd" url="{node65}"/>
+      <polyhotspot id="Poly01" description="" title="Laboratories" target="14.1/-7.4/100.0" url="{node63}">
+        <polystring>-69.21/27.61|-69.47/19.49|-156.46/32.54|-211.98/12.41|-214.11/18.85|-173.65/39.6|-180/37.7|-173.84/38.82|-168.47/41.35</polystring>
+      </polyhotspot>
+      <polyhotspot id="Poly02" description="" title="ICT AVR" target="" url="{node65}">
+        <polystring>-66.4/36.23|-68.89/28.28|-171.62/41.89|-214.49/19.46|-215.66/24.47|-178.92/49.03</polystring>
+      </polyhotspot>
     </hotspots>
     <media/>
     <transition zoomspeed="10" type="crossdissolve" zoomafterinfov="90" enabled="1" blendtime="1" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" blendcolor="0x000000" zoomfov="20" zoomin="2"/>
@@ -721,7 +725,7 @@
     <userdata latitude="8.48627155" nodeid="node23" altitude="13.60" description="" tags="USTP CDO VTour" title="IMG_20220224_120150_00_052.insp" longitude="124.65737631" info="" copyright="Ericke Gallardo" source="" datetime="" customnodeid="" author="Ericke Gallardo" comment="" heading="203.831"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="178.823" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="18.7038" id="Point01" description="" title="ICT" pan="377.169" skinid="ht_node" tilt="-11.4095" target="$fwd" url="{node25}"/>
       <hotspot distance="19.1813" id="Point02" description="" title="IMG_20220224_120353_00_056.insp" pan="47.4507" skinid="ht_node" tilt="0" target="$fwd" url="{node22}"/>
@@ -751,7 +755,7 @@
     <userdata latitude="8.48611350" nodeid="node22" altitude="13.60" description="" tags="USTP CDO VTour" title="IMG_20220224_120353_00_056.insp" longitude="124.65744619" info="" copyright="Ericke Gallardo" source="" datetime="" customnodeid="" author="Ericke Gallardo" comment="" heading="-43.7101"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="169.225" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="19.1813" id="Point01" description="" title="IMG_20220224_120150_00_052.insp" pan="-20.0905" skinid="ht_node" tilt="0" target="$fwd" url="{node23}"/>
       <hotspot distance="10.5059" id="Point02" description="" title="ICT" pan="49.9987" skinid="ht_node" tilt="-20.6209" target="$fwd" url="{node25}"/>
@@ -781,7 +785,7 @@
     <userdata latitude="8.48631198" nodeid="node21" altitude="18.00" description="" tags="USTP CDO VTour" title="IMG_20220224_121006_00_057.insp" longitude="124.65733550" info="" copyright="Ericke Gallardo" source="" datetime="" customnodeid="" author="Ericke Gallardo" comment="" heading="-46.7369"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="180.452" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="24.2229" id="Point01" description="" title="ICT" pan="-220.8" skinid="ht_node" tilt="-19.5357" target="$fwd" url="{node25}"/>
       <hotspot distance="7.7275" id="Point02" description="" title="IMG_20220224_120150_00_052.insp" pan="-181.784" skinid="ht_node" tilt="-34.708" target="$fwd" url="{node23}"/>
@@ -811,7 +815,7 @@
     <userdata latitude="8.48631116" nodeid="node20" altitude="10.20" description="" tags="USTP CDO VTour" title="IMG_20220224_143315_00_026.insp" longitude="124.65692980" info="" copyright="Ericke Gallardo" source="" datetime="" customnodeid="" author="Ericke Gallardo" comment="" heading="-30.7405"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="161.123" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="13.5445" id="Point01" description="" title="IMG_20220224_115456_00_048.insp" pan="-131.755" skinid="ht_node" tilt="-11.0672" target="$fwd" url="{node26}"/>
       <hotspot distance="30.5958" id="Point02" description="" title="IMG_20220224_143519_00_027.insp" pan="-38.3672" skinid="ht_node" tilt="-6.56872" target="$fwd" url="{node19}"/>
@@ -842,7 +846,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="191.022" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="33.8985" id="Point01" description="" title="IMG_20220224_115456_00_048.insp" pan="-11.9757" skinid="ht_node" tilt="1.52137" target="$fwd" url="{node26}"/>
       <hotspot distance="30.5958" id="Point02" description="" title="IMG_20220224_143315_00_026.insp" pan="324.971" skinid="ht_node" tilt="6.56872" target="$fwd" url="{node20}"/>
@@ -874,7 +878,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="165.341" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="45.9961" id="Point01" description="" title="IMG_20220224_143519_00_027.insp" pan="-97.5492" skinid="ht_node" tilt="0" target="$fwd" url="{node19}"/>
       <hotspot distance="46.1953" id="Point02" description="" title="IMG_20220224_143843_00_029.insp" pan="82.0203" skinid="ht_node" tilt="-0.62" target="$fwd" url="{node17}"/>
@@ -905,7 +909,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="151.572" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="19.7705" id="Point01" description="" title="Flagpole" pan="-185.446" skinid="ht_node" tilt="-1.05093" target="$fwd" url="{node38}"/>
       <hotspot distance="36.96" id="Point02" description="" title="IMG_20220224_144018_00_030.insp" pan="80.1524" skinid="ht_node" tilt="-1.01973" target="$fwd" url="{node16}"/>
@@ -937,7 +941,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="150.932" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="36.96" id="Point01" description="" title="IMG_20220224_143843_00_029.insp" pan="-93.3857" skinid="ht_node" tilt="-1.24027" target="$fwd" url="{node17}"/>
       <hotspot distance="21.7974" id="Point02" description="" title="IMG_20220224_144126_00_031.insp" pan="85.8427" skinid="ht_node" tilt="-3.41916" target="$fwd" url="{node15}"/>
@@ -968,7 +972,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="154.991" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="21.7974" id="Point01" description="" title="IMG_20220224_144018_00_030.insp" pan="-272.808" skinid="ht_node" tilt="3.41916" target="$fwd" url="{node16}"/>
       <hotspot distance="34.7775" id="Point02" description="" title="IMG_20220224_144241_00_032.insp" pan="-91.3975" skinid="ht_node" tilt="-0.494255" target="$fwd" url="{node14}"/>
@@ -1000,7 +1004,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="166.51" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="34.7775" id="Point01" description="" title="IMG_20220224_144126_00_031.insp" pan="82.3845" skinid="ht_node" tilt="0.494255" target="$fwd" url="{node15}"/>
       <hotspot distance="20.1257" id="Point02" description="" title="IMG_20220224_144446_00_033.insp" pan="174.037" skinid="ht_node" tilt="0" target="$fwd" url="{node13}"/>
@@ -1031,7 +1035,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="185.145" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="20.1257" id="Point01" description="" title="IMG_20220224_144241_00_032.insp" pan="-182.092" skinid="ht_node" tilt="0" target="$fwd" url="{node14}"/>
       <hotspot distance="18.5879" id="Point02" description="" title="IMG_20220224_144654_00_034.insp" pan="87.8505" skinid="ht_node" tilt="0" target="$fwd" url="{node12}"/>
@@ -1063,7 +1067,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="192.599" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="18.5879" id="Point01" description="" title="IMG_20220224_144446_00_033.insp" pan="8.54048" skinid="ht_node" tilt="-5.95" target="$fwd" url="{node13}"/>
     </hotspots>
@@ -1093,7 +1097,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="232.801" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="49.8883" id="Point01" description="" title="IMG_20220224_144446_00_033.insp" pan="-356.213" skinid="ht_node" tilt="1.37831" target="$fwd" url="{node13}"/>
       <hotspot distance="19.9084" id="Point02" description="" title="IMG_20220224_144956_00_036.insp" pan="-88.6242" skinid="ht_node" tilt="5.42" target="$fwd" url="{node10}"/>
@@ -1124,7 +1128,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="240.327" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="19.9084" id="Point01" description="" title="IMG_20220224_144826_00_035.insp" pan="123.838" skinid="ht_node" tilt="-13.0638" target="$fwd" url="{node11}"/>
     </hotspots>
@@ -1154,7 +1158,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="149.061" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="38.3827" id="Point01" description="" title="Administration Building" pan="256.694" skinid="ht_node" tilt="-0.298551" target="$fwd" url="{node28}"/>
       <hotspot distance="20.871" id="Point02" description="" title="IMG_20220224_150006_00_039.insp" pan="75.1773" skinid="ht_node" tilt="-0.799055" target="$fwd" url="{node8}"/>
@@ -1186,7 +1190,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="165.855" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="20.871" id="Point01" description="" title="IMG_20220224_145926_00_038.insp" pan="78.3971" skinid="ht_node" tilt="0.549055" target="$fwd" url="{node9}"/>
       <hotspot distance="33.0592" id="Point02" description="" title="IMG_20220224_150421_00_041.insp" pan="-48.58" skinid="ht_node" tilt="6.42604" target="$fwd" url="{node6}"/>
@@ -1218,7 +1222,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="199.823" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="39.4484" id="Point01" description="" title="IMG_20220224_150006_00_039.insp" pan="258.493" skinid="ht_node" tilt="2.03382" target="$fwd" url="{node8}"/>
       <hotspot distance="32.9384" id="Point02" description="" title="IMG_20220224_150421_00_041.insp" pan="205.209" skinid="ht_node" tilt="8.9072" target="$fwd" url="{node6}"/>
@@ -1250,7 +1254,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="197.324" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="33.0592" id="Point01" description="" title="IMG_20220224_150006_00_039.insp" pan="102.153" skinid="ht_node" tilt="-6.42604" target="$fwd" url="{node8}"/>
       <hotspot distance="32.9384" id="Point02" description="" title="IMG_20220224_150130_00_040.insp" pan="-193.247" skinid="ht_node" tilt="-6.8272" target="$fwd" url="{node7}"/>
@@ -1283,7 +1287,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="233.853" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="37.286" id="Point01" description="" title="IMG_20220224_150421_00_041.insp" pan="242.96" skinid="ht_node" tilt="0" target="$fwd" url="{node6}"/>
       <hotspot distance="50.3641" id="Point02" description="" title="IMG_20220224_150645_00_043.insp" pan="-27.7233" skinid="ht_node" tilt="-6.04064" target="$fwd" url="{node4}"/>
@@ -1315,7 +1319,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="247.247" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="18.635" id="Point01" description="" title="IMG_20220224_150743_00_044.insp" pan="100.437" skinid="ht_node" tilt="0" target="$fwd" url="{node3}"/>
       <hotspot distance="50.3641" id="Point02" description="" title="IMG_20220224_150509_00_042.insp" pan="34.1136" skinid="ht_node" tilt="2.24064" target="$fwd" url="{node5}"/>
@@ -1346,7 +1350,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="230.155" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="18.635" id="Point01" description="" title="IMG_20220224_150645_00_043.insp" pan="-101.916" skinid="ht_node" tilt="0" target="$fwd" url="{node4}"/>
       <hotspot distance="19.3651" id="Point02" description="" title="TEST.JPG00000" pan="21.5513" skinid="ht_node" tilt="-7.28078" target="$fwd" url="{node44}"/>
@@ -1377,7 +1381,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="146.999" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="28.1841" id="Point01" description="" title="Administration Building" pan="106.825" skinid="ht_node" tilt="-20.1309" target="$fwd" url="{node28}"/>
     </hotspots>
@@ -1405,7 +1409,7 @@
     <userdata latitude="" nodeid="node47" description="" tags="USTP CDO VTour" title="IMG_20220301_160658_00_051.insp" longitude="" info="" copyright="" source="" datetime="1 Mar 2022 4:06 pm" customnodeid="" author="" comment="" heading="0"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
     </hotspots>
     <media/>
@@ -1432,7 +1436,7 @@
     <userdata latitude="8.486528" nodeid="node48" altitude="6.70" description="" tags="USTP CDO VTour" title="IMG_20220301_160315_00_050.insp" longitude="124.655639" info="" copyright="" source="" datetime="1 Mar 2022 4:03 pm" customnodeid="" author="" comment="" heading="0"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="199.809" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <polyhotspot id="Poly01" description="" title="" target="" url="{node49}">
         <polystring>-43.59/23.81|-179.04/6.84|-178.26/-1.37|-33.88/0.94|-32.15/18.77</polystring>
@@ -1462,7 +1466,7 @@
     <userdata latitude="8.486639" nodeid="node49" altitude="6.70" description="" tags="highlights|USTP CDO VTour" title="Solar Panels" longitude="124.655694" info="" copyright="" source="" datetime="1 Mar 2022 4:02 pm" customnodeid="" author="" comment="" heading="0"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="208.262" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
     </hotspots>
     <media/>
@@ -1491,7 +1495,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="215.024" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="26.3575" id="Point01" description="" title="IMG_20220301_155758_00_047.insp" pan="-26.4961" skinid="ht_node" tilt="-23.71" target="$fwd" url="{node51}"/>
       <polyhotspot id="Poly01" description="" title="" target="-32.2/-14.2/94.8" url="{node49}">
@@ -1524,7 +1528,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="195.765" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="13.7451" id="Point01" description="" title="IMG_20220301_155647_00_046.insp" pan="260.417" skinid="ht_node" tilt="-8.55" target="$fwd" url="{node52}"/>
       <hotspot distance="26.3575" id="Point02" description="" title="IMG_20220301_155917_00_048.insp" pan="151.326" skinid="ht_node" tilt="-11.35" target="$fwd" url="{node50}"/>
@@ -1558,7 +1562,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="187.462" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="36.5506" id="Point01" description="" title="IMG_20220224_144126_00_031.insp" pan="331.977" skinid="ht_node" tilt="-3.18" target="$fwd" url="{node15}"/>
       <hotspot distance="13.7451" id="Point02" description="" title="IMG_20220301_155758_00_047.insp" pan="93.1992" skinid="ht_node" tilt="0" target="$fwd" url="{node51}"/>
@@ -1587,7 +1591,7 @@
     <userdata latitude="8.485889" nodeid="node53" altitude="8.40" description="" tags="USTP CDO VTour" title="IMG_20220301_155156_00_045.insp" longitude="124.656722" info="" copyright="" source="" datetime="1 Mar 2022 3:51 pm" customnodeid="" author="" comment="" heading="0"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="109.623" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
     </hotspots>
     <media/>
@@ -1614,7 +1618,7 @@
     <userdata latitude="8.485833" nodeid="node54" altitude="8.10" description="" tags="USTP CDO VTour" title="IMG_20220301_155030_00_044.insp" longitude="124.656833" info="" copyright="" source="" datetime="1 Mar 2022 3:50 pm" customnodeid="" author="" comment="" heading="0"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="107.413" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
     </hotspots>
     <media/>
@@ -1643,7 +1647,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="77.6361" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="32.6298" id="scicom" description="" title="IMG_20220224_112335_00_033.insp" pan="-313.35" skinid="ht_node" tilt="-4.48" target="$fwd" url="{node40}"/>
       <hotspot distance="14.4592" id="Point01" description="" title="IMG_20220224_112506_00_034.insp" pan="-243.303" skinid="ht_node" tilt="-1.25" target="$fwd" url="{node39}"/>
@@ -1674,7 +1678,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="25.2721" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="37.811" id="Point01" description="" title="IMG_20220301_154018_00_038.insp" pan="-83.143" skinid="ht_node" tilt="1.85" target="$fwd" url="{node59}"/>
       <hotspot distance="25.9985" id="Point02" description="" title="IMG_20220301_154234_00_040.insp" pan="-140.013" skinid="ht_node" tilt="0" target="$fwd" url="{node57}"/>
@@ -1706,7 +1710,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="50.4289" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="17.0992" id="Point01" description="" title="IMG_20220301_154018_00_038.insp" pan="-50.1607" skinid="ht_node" tilt="2.45" target="$fwd" url="{node59}"/>
       <hotspot distance="25.9985" id="Point02" description="" title="IMG_20220301_154413_00_041.insp" pan="53.8228" skinid="ht_node" tilt="-0.46" target="$fwd" url="{node56}"/>
@@ -1735,7 +1739,7 @@
     <userdata latitude="8.484750" nodeid="node58" altitude="5.40" description="" tags="USTP CDO VTour" title="IMG_20220301_154134_00_039.insp" longitude="124.656833" info="" copyright="" source="" datetime="1 Mar 2022 3:41 pm" customnodeid="" author="" comment="" heading="0"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="44.1478" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
     </hotspots>
     <media/>
@@ -1764,7 +1768,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="62.1328" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <hotspot distance="17.0992" id="Point01" description="" title="IMG_20220301_154234_00_040.insp" pan="142.199" skinid="ht_node" tilt="-9.56" target="$fwd" url="{node57}"/>
       <hotspot distance="37.811" id="Point02" description="" title="IMG_20220301_154413_00_041.insp" pan="86.367" skinid="ht_node" tilt="0" target="$fwd" url="{node56}"/>
@@ -1793,7 +1797,7 @@
     <userdata latitude="8.484417" nodeid="node60" altitude="7.20" description="" tags="USTP CDO VTour" title="IMG_20220301_153536_00_037.insp" longitude="124.656833" info="" copyright="" source="" datetime="1 Mar 2022 3:35 pm" customnodeid="" author="" comment="" heading="0"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="69.5591" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
     </hotspots>
     <media/>
@@ -1822,7 +1826,7 @@
     </userdata>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="156.316" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
       <polyhotspot id="Poly01" description="" title="" target="31.0/-9.9/100.0" url="{node22}">
         <polystring>-294.41/32.92|-318.29/20.29|-319.14/-41.92|-295.99/-57.7</polystring>
@@ -1855,7 +1859,7 @@
     <userdata latitude="8.486556" nodeid="node64" altitude="7.00" description="" tags="USTP CDO VTour" title="IMG_20220301_151210_00_033.insp" longitude="124.657111" info="" copyright="" source="" datetime="1 Mar 2022 3:12 pm" customnodeid="" author="" comment="" heading="0"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="193.388" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
     </hotspots>
     <media/>
@@ -1882,8 +1886,9 @@
     <userdata latitude="8.486083" nodeid="node65" altitude="20.00" description="" tags="highlights|USTP CDO VTour" title="ICT AVR" longitude="124.657389" info="" copyright="" source="" datetime="1 Mar 2022 3:08 pm" customnodeid="" author="" comment="" heading="0"/>
     <hotspots wordwrap="1" width="180" height="20">
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
-      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
+      <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="1" backgroundalpha="0.25098" borderalpha="0.588235" bordercolor="0x0000ff"/>
       <hotspot distance="163.122" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
+      <hotspot distance="11.0459" id="Point01" description="" title="" pan="-2.94" skinid="ht_node" tilt="1.65" target="-126.5/25.0/120.0" url="{node25}"/>
     </hotspots>
     <media/>
     <transition zoomspeed="10" type="crossdissolve" zoomafterinfov="90" enabled="1" blendtime="1" zoomoutpause="1" zoomafteroutfov="20" zoomout="0" softedge="0" blendcolor="0x000000" zoomfov="20" zoomin="2"/>
