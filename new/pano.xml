@@ -1766,7 +1766,7 @@
       <label backgroundcolor="0xffffff" borderradius="1" background="1" textalpha="1" backgroundalpha="1" wordwrap="1" enabled="1" width="180" borderalpha="1" height="20" textcolor="0x000000" bordercolor="0x000000" border="1"/>
       <polystyle backgroundcolor="0x0000ff" handcursor="1" mode="0" backgroundalpha="0.25098" borderalpha="1" bordercolor="0x0000ff"/>
       <hotspot distance="62.1328" id="ubos" description="" title="" pan="-350.83" skinid="vtourlogo" tilt="-90.01" target="" url="{node43}"/>
-      <hotspot distance="17.0992" id="Point01" description="" title="IMG_20220301_154234_00_040.insp" pan="126.119" skinid="ht_node" tilt="0" target="$fwd" url="{node57}"/>
+      <hotspot distance="17.0992" id="Point01" description="" title="IMG_20220301_154234_00_040.insp" pan="142.199" skinid="ht_node" tilt="-9.56" target="$fwd" url="{node57}"/>
       <hotspot distance="37.811" id="Point02" description="" title="IMG_20220301_154413_00_041.insp" pan="86.367" skinid="ht_node" tilt="0" target="$fwd" url="{node56}"/>
     </hotspots>
     <media/>
