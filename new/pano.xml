@@ -466,7 +466,6 @@
       <hotspot tilt="-5.64339" description="" url="{node34}" pan="257.699" id="Point01" distance="31.5244" target="$fwd" title="IMG_20220224_113612_00_040.insp" skinid="ht_node"/>
       <hotspot tilt="-7.67546" description="" url="{node28}" pan="-37.5002" id="Point02" distance="12.7282" target="$fwd" title="Administration Building" skinid="ht_node"/>
       <hotspot tilt="-0.527648" description="" url="{node36}" pan="118.208" id="Point03" distance="51.1415" target="$fwd" title="IMG_20220224_113138_00_037.insp" skinid="ht_node"/>
-      <hotspot tilt="-5.77191" description="" url="{node26}" pan="56.8987" id="Point04" distance="44.7851" target="$fwd" title="IMG_20220224_115456_00_048.insp" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition enabled="1" softedge="0" zoomin="2" type="crossdissolve" zoomafteroutfov="20" zoomafterinfov="90" zoomfov="20" zoomout="0" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomspeed="10"/>
@@ -694,7 +693,6 @@
       <hotspot tilt="11.0672" description="" url="{node20}" pan="167.583" id="Point02" distance="13.5445" target="$fwd" title="IMG_20220224_143315_00_026.insp" skinid="ht_node"/>
       <hotspot tilt="-0.921373" description="" url="{node19}" pan="96.8344" id="Point03" distance="33.8985" target="$fwd" title="IMG_20220224_143519_00_027.insp" skinid="ht_node"/>
       <hotspot tilt="2.14875" description="" url="{node25}" pan="-12.1321" id="Point04" distance="39.4923" target="$fwd" title="ICT" skinid="ht_node"/>
-      <hotspot tilt="4.00191" description="" url="{node35}" pan="251.737" id="Point05" distance="44.7851" target="$fwd" title="IMG_20220224_113320_00_038.insp" skinid="ht_node"/>
     </hotspots>
     <media/>
     <transition enabled="1" softedge="0" zoomin="2" type="crossdissolve" zoomafteroutfov="20" zoomafterinfov="90" zoomfov="20" zoomout="0" blendcolor="0x000000" blendtime="1" zoomoutpause="1" zoomspeed="10"/>
