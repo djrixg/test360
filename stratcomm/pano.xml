@@ -13,13 +13,13 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" fov="120"/>
     </view>
-    <userdata comment="" altitude="7.90" datetime="9 Mar 2022 8:45 am" latitude="8.48599644" longitude="124.65726222" info="" nodeid="node1" heading="171.816" source="" customnodeid="" description="" title="IMG_20220309_084544_00_049.insp" author="" copyright="" tags="StratComm Office">
+    <userdata comment="" altitude="7.90" datetime="9 Mar 2022 8:45 am" latitude="8.48599644" longitude="124.65726222" info="" nodeid="node1" heading="171.816" source="" customnodeid="" description="" title="Studio" author="" copyright="" tags="StratComm Office">
       <mapcoords mapid="FloorPlan01" x="1.18103" y="-1.91849" y_floorplan_percent="68.2129" x_floorplan_percent="55.9896"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" background="1" border="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot pan="157.248" target="$fwd" distance="10.8708" id="Point01" url="{node2}" tilt="0" description="" skinid="ht_node" title="IMG_20220309_084613_00_050.insp"/>
+      <hotspot pan="157.248" target="$fwd" distance="10.8708" id="Point01" url="{node2}" tilt="0" description="" skinid="ht_node" title="Workspace"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" blendtime="0.2" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="20"/>
@@ -39,16 +39,16 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" fov="120"/>
     </view>
-    <userdata comment="" altitude="7.60" datetime="9 Mar 2022 8:46 am" latitude="8.486000" longitude="124.657361" info="" nodeid="node2" heading="166.081" source="" customnodeid="" description="" title="IMG_20220309_084613_00_050.insp" author="" copyright="" tags="StratComm Office">
+    <userdata comment="" altitude="7.60" datetime="9 Mar 2022 8:46 am" latitude="8.486000" longitude="124.657361" info="" nodeid="node2" heading="166.081" source="" customnodeid="" description="" title="Workspace" author="" copyright="" tags="StratComm Office">
       <mapcoords mapid="FloorPlan01" x="1.25381" y="-1.38702" y_floorplan_percent="49.3164" x_floorplan_percent="59.4401"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" background="1" border="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot pan="346.963" target="$fwd" distance="10.8708" id="Point01" url="{node1}" tilt="-2.23" description="" skinid="ht_node" title="IMG_20220309_084544_00_049.insp"/>
-      <hotspot pan="169.714" target="$fwd" distance="17.3598" id="Point02" url="{node3}" tilt="-8.82" description="" skinid="ht_node" title="IMG_20220309_084642_00_051.insp"/>
-      <hotspot pan="248.081" target="$fwd" distance="31.541" id="Point03" url="{node5}" tilt="-8.34" description="" skinid="ht_node" title="IMG_20220309_084734_00_053.insp"/>
-      <hotspot pan="199.219" target="$fwd" distance="72.7194" id="Point04" url="{node4}" tilt="-8.75" description="" skinid="ht_node" title="IMG_20220309_084711_00_052.insp"/>
+      <hotspot pan="346.963" target="$fwd" distance="10.8708" id="Point01" url="{node1}" tilt="-2.23" description="" skinid="ht_node" title="Studio"/>
+      <hotspot pan="169.714" target="$fwd" distance="17.3598" id="Point02" url="{node3}" tilt="-8.82" description="" skinid="ht_node" title="Director"/>
+      <hotspot pan="248.081" target="$fwd" distance="31.541" id="Point03" url="{node5}" tilt="-8.34" description="" skinid="ht_node" title="Conference Room"/>
+      <hotspot pan="199.219" target="$fwd" distance="72.7194" id="Point04" url="{node4}" tilt="-8.75" description="" skinid="ht_node" title="Comm Writer"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" blendtime="0.2" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="20"/>
@@ -68,14 +68,14 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" fov="120"/>
     </view>
-    <userdata comment="" altitude="7.20" datetime="9 Mar 2022 8:46 am" latitude="8.485889" longitude="124.657250" info="" nodeid="node3" heading="0" source="" customnodeid="" description="" title="IMG_20220309_084642_00_051.insp" author="" copyright="" tags="StratComm Office">
+    <userdata comment="" altitude="7.20" datetime="9 Mar 2022 8:46 am" latitude="8.485889" longitude="124.657250" info="" nodeid="node3" heading="0" source="" customnodeid="" description="" title="Director" author="" copyright="" tags="StratComm Office">
       <mapcoords mapid="FloorPlan01" x="1.39664" y="-0.812988" y_floorplan_percent="28.9063" x_floorplan_percent="66.2109"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" background="1" border="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot pan="165.743" target="$fwd" distance="17.3598" id="Point01" url="{node2}" tilt="-13.83" description="" skinid="ht_node" title="IMG_20220309_084613_00_050.insp"/>
-      <hotspot pan="102.682" target="$fwd" distance="88.9735" id="Point02" url="{node4}" tilt="-12.31" description="" skinid="ht_node" title="IMG_20220309_084711_00_052.insp"/>
+      <hotspot pan="165.743" target="$fwd" distance="17.3598" id="Point01" url="{node2}" tilt="-13.83" description="" skinid="ht_node" title="Workspace"/>
+      <hotspot pan="102.682" target="$fwd" distance="88.9735" id="Point02" url="{node4}" tilt="-12.31" description="" skinid="ht_node" title="Comm Writer"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" blendtime="0.2" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="20"/>
@@ -95,14 +95,14 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" fov="120"/>
     </view>
-    <userdata comment="" altitude="7.70" datetime="9 Mar 2022 8:47 am" latitude="8.486250" longitude="124.657972" info="" nodeid="node4" heading="-63.8843" source="" customnodeid="" description="" title="IMG_20220309_084711_00_052.insp" author="" copyright="" tags="StratComm Office">
+    <userdata comment="" altitude="7.70" datetime="9 Mar 2022 8:47 am" latitude="8.486250" longitude="124.657972" info="" nodeid="node4" heading="-63.8843" source="" customnodeid="" description="" title="Comm Writer" author="" copyright="" tags="StratComm Office">
       <mapcoords mapid="FloorPlan01" x="1.14395" y="-0.839081" y_floorplan_percent="29.834" x_floorplan_percent="54.2318"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" background="1" border="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot pan="-145.002" target="$fwd" distance="88.9735" id="Point01" url="{node3}" tilt="-9.4" description="" skinid="ht_node" title="IMG_20220309_084642_00_051.insp"/>
-      <hotspot pan="-234.197" target="$fwd" distance="72.7194" id="Point02" url="{node2}" tilt="-9.64" description="" skinid="ht_node" title="IMG_20220309_084613_00_050.insp"/>
+      <hotspot pan="-145.002" target="$fwd" distance="88.9735" id="Point01" url="{node3}" tilt="-9.4" description="" skinid="ht_node" title="Director"/>
+      <hotspot pan="-234.197" target="$fwd" distance="72.7194" id="Point02" url="{node2}" tilt="-9.64" description="" skinid="ht_node" title="Workspace"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" blendtime="0.2" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="20"/>
@@ -122,15 +122,15 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" fov="120"/>
     </view>
-    <userdata comment="" altitude="7.90" datetime="9 Mar 2022 8:47 am" latitude="8.485861" longitude="124.657111" info="" nodeid="node5" heading="139.61" source="" customnodeid="" description="" title="IMG_20220309_084734_00_053.insp" author="" copyright="" tags="StratComm Office">
+    <userdata comment="" altitude="7.90" datetime="9 Mar 2022 8:47 am" latitude="8.485861" longitude="124.657111" info="" nodeid="node5" heading="139.61" source="" customnodeid="" description="" title="Conference Room" author="" copyright="" tags="StratComm Office">
       <mapcoords mapid="FloorPlan01" x="0.780029" y="-1.31012" y_floorplan_percent="46.582" x_floorplan_percent="36.9792"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" background="1" border="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot pan="46.9802" target="$fwd" distance="31.541" id="Point01" url="{node2}" tilt="-1.72" description="" skinid="ht_node" title="IMG_20220309_084613_00_050.insp"/>
-      <hotspot pan="316.918" target="$fwd" distance="6.94673" id="Point02" url="{node6}" tilt="-6.15" description="" skinid="ht_node" title="IMG_20220309_084819_00_054.insp"/>
-      <hotspot pan="153.275" target="$fwd" distance="27.5388" id="Point03" url="{node8}" tilt="-4.83" description="" skinid="ht_node" title="IMG_20220309_084910_00_056.insp"/>
+      <hotspot pan="46.9802" target="$fwd" distance="31.541" id="Point01" url="{node2}" tilt="-1.72" description="" skinid="ht_node" title="Workspace"/>
+      <hotspot pan="316.918" target="$fwd" distance="6.94673" id="Point02" url="{node6}" tilt="-6.15" description="" skinid="ht_node" title="Recording Room/Stock Room"/>
+      <hotspot pan="153.275" target="$fwd" distance="27.5388" id="Point03" url="{node8}" tilt="-4.83" description="" skinid="ht_node" title="Pantry"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" blendtime="0.2" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="20"/>
@@ -150,13 +150,13 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" fov="120"/>
     </view>
-    <userdata comment="" altitude="8.10" datetime="9 Mar 2022 8:48 am" latitude="8.485917" longitude="124.657083" info="" nodeid="node6" heading="161.989" source="" customnodeid="" description="" title="IMG_20220309_084819_00_054.insp" author="" copyright="" tags="StratComm Office">
+    <userdata comment="" altitude="8.10" datetime="9 Mar 2022 8:48 am" latitude="8.485917" longitude="124.657083" info="" nodeid="node6" heading="161.989" source="" customnodeid="" description="" title="Recording Room/Stock Room" author="" copyright="" tags="StratComm Office">
       <mapcoords mapid="FloorPlan01" x="0.703125" y="-1.86493" y_floorplan_percent="66.3086" x_floorplan_percent="33.3333"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" background="1" border="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot pan="-203.552" target="$fwd" distance="6.94673" id="Point01" url="{node5}" tilt="-9.61" description="" skinid="ht_node" title="IMG_20220309_084734_00_053.insp"/>
+      <hotspot pan="-203.552" target="$fwd" distance="6.94673" id="Point01" url="{node5}" tilt="-9.61" description="" skinid="ht_node" title="Conference Room"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" blendtime="0.2" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="20"/>
@@ -176,13 +176,13 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" fov="120"/>
     </view>
-    <userdata comment="" altitude="8.10" datetime="9 Mar 2022 8:48 am" latitude="8.485861" longitude="124.657083" info="" nodeid="node7" heading="-52.0703" source="" customnodeid="" description="" title="IMG_20220309_084847_00_055.insp" author="" copyright="" tags="StratComm Office">
+    <userdata comment="" altitude="8.10" datetime="9 Mar 2022 8:48 am" latitude="8.485861" longitude="124.657083" info="" nodeid="node7" heading="-52.0703" source="" customnodeid="" description="" title="Comfort Room" author="" copyright="" tags="StratComm Office">
       <mapcoords mapid="FloorPlan01" x="0.683899" y="-0.722351" y_floorplan_percent="25.6836" x_floorplan_percent="32.4219"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" background="1" border="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot pan="-227.25" target="$fwd" distance="29.0353" id="Point01" url="{node8}" tilt="0" description="" skinid="ht_node" title="IMG_20220309_084910_00_056.insp"/>
+      <hotspot pan="-227.25" target="$fwd" distance="29.0353" id="Point01" url="{node8}" tilt="0" description="" skinid="ht_node" title="Pantry"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" blendtime="0.2" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="20"/>
@@ -202,14 +202,14 @@
       <min pan="0" fovpixel="2" tilt="-90"/>
       <max pan="360" fovfisheye="360" scaletofit="1" fovstereographic="270" tilt="90" fov="120"/>
     </view>
-    <userdata comment="" altitude="8.20" datetime="9 Mar 2022 8:49 am" latitude="8.486083" longitude="124.657222" info="" nodeid="node8" heading="-101.251" source="" customnodeid="" description="" title="IMG_20220309_084910_00_056.insp" author="" copyright="" tags="StratComm Office">
+    <userdata comment="" altitude="8.20" datetime="9 Mar 2022 8:49 am" latitude="8.486083" longitude="124.657222" info="" nodeid="node8" heading="-101.251" source="" customnodeid="" description="" title="Pantry" author="" copyright="" tags="StratComm Office">
       <mapcoords mapid="FloorPlan01" x="0.703125" y="-0.950317" y_floorplan_percent="33.7891" x_floorplan_percent="33.3333"/>
     </userdata>
     <hotspots height="20" wordwrap="1" width="180">
       <label borderradius="1" height="20" borderalpha="1" backgroundcolor="0xffffff" wordwrap="1" width="180" background="1" border="1" textcolor="0x000000" backgroundalpha="1" bordercolor="0x000000" textalpha="1" enabled="1"/>
       <polystyle borderalpha="1" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" bordercolor="0x0000ff" handcursor="1"/>
-      <hotspot pan="-278.566" target="$fwd" distance="27.5388" id="Point01" url="{node5}" tilt="-7.62" description="" skinid="ht_node" title="IMG_20220309_084734_00_053.insp"/>
-      <hotspot pan="-100.64" target="$fwd" distance="29.0353" id="Point02" url="{node7}" tilt="-7.28" description="" skinid="ht_node" title="IMG_20220309_084847_00_055.insp"/>
+      <hotspot pan="-278.566" target="$fwd" distance="27.5388" id="Point01" url="{node5}" tilt="-7.62" description="" skinid="ht_node" title="Conference Room"/>
+      <hotspot pan="-100.64" target="$fwd" distance="29.0353" id="Point02" url="{node7}" tilt="-7.28" description="" skinid="ht_node" title="Comfort Room"/>
     </hotspots>
     <media/>
     <transition zoomoutpause="1" blendtime="0.2" zoomin="0" zoomafterinfov="90" zoomafteroutfov="20" type="crossdissolve" zoomout="0" blendcolor="0x000000" softedge="0" enabled="1" zoomspeed="2" zoomfov="20"/>
