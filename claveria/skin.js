@@ -1,7 +1,7 @@
 // Garden Gnome Software - Skin
 // Pano2VR 6.1.13/18080
 // Filename: ustp.ggsk
-// Generated 2022-04-20T15:53:39
+// Generated 2022-04-20T15:59:24
 
 function pano2vrSkin(player,base) {
 	player.addVariable('opt_hotspot_preview', 2, true);
@@ -43,10 +43,9 @@ function pano2vrSkin(player,base) {
 	player.addVariable('pos_controller', 1, 0);
 	player.addVariable('pos_360image', 1, 0);
 	player.addVariable('pos_enter_vr', 1, 0);
-	player.addVariable('map_closed', 2, true);
-	player.addVariable('hotspot_closed', 2, true);
-	player.addVariable('temp', 2, false);
 	player.addVariable('opt_3d_preview', 2, true);
+	player.addVariable('show_highlights', 2, true);
+	player.addVariable('show_maps', 2, true);
 	var me=this;
 	var skin=this;
 	var flag=false;
@@ -4908,12 +4907,12 @@ function pano2vrSkin(player,base) {
 		}
 		elHorScrollBg = me._thumbnail_menu__horScrollBg = document.createElement('div');
 		el.appendChild(elHorScrollBg);
-		elHorScrollBg.setAttribute('style', 'position: absolute; left: 0px; bottom: 0px; visibility: hidden; width: 400px; height: 15px; background-color: rgba(255,255,255,0.392157); pointer-events: auto;');
+		elHorScrollBg.setAttribute('style', 'position: absolute; left: 0px; bottom: 0px; visibility: hidden; width: 800px; height: 15px; background-color: rgba(255,255,255,0.392157); pointer-events: auto;');
 		elHorScrollBg.className='ggskin ggskin_scrollarea_hscrollbg';
 		elHorScrollFg = me._thumbnail_menu__horScrollFg = document.createElement('div');
 		elHorScrollBg.appendChild(elHorScrollFg);
 		elHorScrollFg.className='ggskin ggskin_scrollarea_hscrollfg';
-		elHorScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 400px; height: 15px; background-color: rgba(255,255,255,1); pointer-events: auto;');
+		elHorScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 800px; height: 15px; background-color: rgba(255,255,255,1); pointer-events: auto;');
 		me._thumbnail_menu.ggScrollPosX = 0;
 		me._thumbnail_menu.ggScrollPosXPercent = 0.0;
 		elHorScrollFg.onmousedown = function(e) {
@@ -5631,11 +5630,11 @@ function pano2vrSkin(player,base) {
 		}
 		elVertScrollBg = me._thumbnail_menu_mobile__vertScrollBg = document.createElement('div');
 		el.appendChild(elVertScrollBg);
-		elVertScrollBg.setAttribute('style', 'position: absolute; right: 0px; top: 0px; visibility: hidden; width: 15px; height: 280px; background-color: rgba(255,255,255,0.392157); pointer-events: auto;');
+		elVertScrollBg.setAttribute('style', 'position: absolute; right: 0px; top: 0px; visibility: hidden; width: 15px; height: 640px; background-color: rgba(255,255,255,0.392157); pointer-events: auto;');
 		elVertScrollBg.className='ggskin ggskin_scrollarea_vscrollbg';
 		elVertScrollFg = me._thumbnail_menu_mobile__vertScrollFg = document.createElement('div');
 		elVertScrollBg.appendChild(elVertScrollFg);
-		elVertScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 15px; height: 280px; background-color: rgba(255,255,255,1); pointer-events: auto;');
+		elVertScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 15px; height: 640px; background-color: rgba(255,255,255,1); pointer-events: auto;');
 		elVertScrollFg.className='ggskin ggskin_scrollarea_vscrollfg';
 		me._thumbnail_menu_mobile.ggScrollPosY = 0;
 		me._thumbnail_menu_mobile.ggScrollPosYPercent = 0.0;
@@ -10182,29 +10181,30 @@ function pano2vrSkin(player,base) {
 		me._close.ggUpdatePosition=function (useTransition) {
 		}
 		me.divSkin.appendChild(me._close);
-		el=me._container_1=document.createElement('div');
-		el.ggId="Container 1";
+		el=me._maps_panel=document.createElement('div');
+		el.ggId="maps_panel";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		el.ggVisible=false;
+		el.ggVisible=true;
 		el.className="ggskin ggskin_container ";
 		el.ggType='container';
 		hs ='';
 		hs+='height : 460px;';
+		hs+='opacity : 0;';
 		hs+='position : absolute;';
-		hs+='right : 15px;';
+		hs+='right : -185px;';
 		hs+='top : 15px;';
 		hs+='visibility : hidden;';
 		hs+='width : 650px;';
 		hs+='pointer-events:none;';
 		el.setAttribute('style',hs);
 		el.style[domTransform + 'Origin']='50% 50%';
-		me._container_1.ggIsActive=function() {
+		me._maps_panel.ggIsActive=function() {
 			return false;
 		}
 		el.ggElementNodeId=function() {
 			return player.getCurrentNode();
 		}
-		me._container_1.ggUpdatePosition=function (useTransition) {
+		me._maps_panel.ggUpdatePosition=function (useTransition) {
 		}
 		el=me._map_1=document.createElement('div');
 		el.ggFilter = '';
@@ -10269,101 +10269,10 @@ function pano2vrSkin(player,base) {
 			}
 			me._map_1.ggLastNodeId = id;
 		}
-		me._container_1.appendChild(me._map_1);
-		el=me._showmap=document.createElement('div');
-		els=me._showmap__text=document.createElement('div');
-		el.className='ggskin ggskin_textdiv';
-		el.ggTextDiv=els;
-		el.ggId="ShowMap";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		el.ggVisible=true;
-		el.className="ggskin ggskin_text ";
-		el.ggType='text';
-		hs ='';
-		hs+='cursor : pointer;';
-		hs+='height : 5%;';
-		hs+='position : absolute;';
-		hs+='right : 0px;';
-		hs+='top : -1px;';
-		hs+='visibility : inherit;';
-		hs+='width : 10%;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style[domTransform + 'Origin']='50% 50%';
-		hs ='position:absolute;';
-		hs += 'box-sizing: border-box;';
-		hs+='right: 0px;';
-		hs+='top:  0px;';
-		hs+='width: auto;';
-		hs+='height: auto;';
-		hs+='background: #1a1851;';
-		hs+='border: 1px solid #000000;';
-		hs+='border-radius: 6px;';
-		hs+=cssPrefix + 'border-radius: 6px;';
-		hs+='color: rgba(252,179,21,1);';
-		hs+='text-align: center;';
-		hs+='white-space: nowrap;';
-		hs+='padding: 16px 17px 16px 17px;';
-		hs+='overflow: hidden;';
-		hs+='overflow-y: auto;';
-		els.setAttribute('style',hs);
-		els.innerHTML="Show Map";
-		el.appendChild(els);
-		me._showmap.ggIsActive=function() {
-			if ((this.parentNode) && (this.parentNode.ggIsActive)) {
-				return this.parentNode.ggIsActive();
-			}
-			return false;
-		}
-		el.ggElementNodeId=function() {
-			if ((this.parentNode) && (this.parentNode.ggElementNodeId)) {
-				return this.parentNode.ggElementNodeId();
-			}
-			return player.getCurrentNode();
-		}
-		me._showmap.onclick=function (e) {
-			if (
-				(
-					((player.getIsMobile() == true))
-				)
-			) {
-				me._map_1.style[domTransition]='none';
-				me._map_1.style.width = '350px';
-				me._map_1.style.height = '245px';
-				setTimeout(function() {skin.updateSize(me._map_1);}, 9.80641e+08);
-			}
-			if (
-				(
-					((player.getIsMobile() == true))
-				)
-			) {
-				me._container_1.style[domTransition]='none';
-				me._container_1.style.width = '350px';
-				me._container_1.style.height = '245px';
-				setTimeout(function() {skin.updateSize(me._container_1);}, 64);
-			}
-			player.setVariableValue('map_closed', !player.getVariableValue('map_closed'));
-			if (
-				(
-					((player.getVariableValue('temp') == false))
-				)
-			) {
-				player.setVariableValue('map_closed', true);
-			}
-			if (
-				(
-					((player.getVariableValue('temp') == false))
-				)
-			) {
-				player.setVariableValue('temp', true);
-			}
-		}
-		me._showmap.ggUpdatePosition=function (useTransition) {
-		}
-		me._container_1.appendChild(me._showmap);
-		me.divSkin.appendChild(me._container_1);
-		el=me._scrollarea_1=document.createElement('div');
-		els=me._scrollarea_1__content=document.createElement('div');
+		me._maps_panel.appendChild(me._map_1);
+		me.divSkin.appendChild(me._maps_panel);
+		el=me._highlights_panel=document.createElement('div');
+		els=me._highlights_panel__content=document.createElement('div');
 		els.className='ggskin ggskin_subelement ggskin_scrollarea';
 		el.ggContent=els;
 		el.appendChild(els);
@@ -10376,7 +10285,7 @@ function pano2vrSkin(player,base) {
 		el.ggVPercentVisible = 1.0;
 		el.ggHPercentVisible = 1.0;
 		hs ='';
-		hs+='height : 175px;';
+		hs+='height : 400px;';
 		hs+='left : 0px;';
 		hs+='overflow : visible;';
 		hs+='position : absolute;';
@@ -10384,152 +10293,152 @@ function pano2vrSkin(player,base) {
 		hs+='width : 230px;';
 		hs+="";
 		els.setAttribute('style',hs);
-		me._scrollarea_1.ggScrollByX = function(diffX) {
-			if(!me._scrollarea_1.ggHorScrollVisible || diffX == 0 || me._scrollarea_1.ggHPercentVisible >= 1.0) return;
-			me._scrollarea_1.ggScrollPosX = (me._scrollarea_1__horScrollFg.offsetLeft + diffX);
-			me._scrollarea_1.ggScrollPosX = Math.max(me._scrollarea_1.ggScrollPosX, 0);
-			me._scrollarea_1.ggScrollPosX = Math.min(me._scrollarea_1.ggScrollPosX, me._scrollarea_1__horScrollBg.offsetWidth - me._scrollarea_1__horScrollFg.offsetWidth);
-			me._scrollarea_1__horScrollFg.style.left = me._scrollarea_1.ggScrollPosX + 'px';
-			let percentScrolled = me._scrollarea_1.ggScrollPosX / (me._scrollarea_1__horScrollBg.offsetWidth - me._scrollarea_1__horScrollFg.offsetWidth);
-			me._scrollarea_1__content.style.left = -(Math.round((me._scrollarea_1.ggContentWidth * (1.0 - me._scrollarea_1.ggHPercentVisible)) * percentScrolled)) + me._scrollarea_1.ggContentLeftOffset + 'px';
-			me._scrollarea_1.ggScrollPosXPercent = (me._scrollarea_1__horScrollFg.offsetLeft / me._scrollarea_1__horScrollBg.offsetWidth);
+		me._highlights_panel.ggScrollByX = function(diffX) {
+			if(!me._highlights_panel.ggHorScrollVisible || diffX == 0 || me._highlights_panel.ggHPercentVisible >= 1.0) return;
+			me._highlights_panel.ggScrollPosX = (me._highlights_panel__horScrollFg.offsetLeft + diffX);
+			me._highlights_panel.ggScrollPosX = Math.max(me._highlights_panel.ggScrollPosX, 0);
+			me._highlights_panel.ggScrollPosX = Math.min(me._highlights_panel.ggScrollPosX, me._highlights_panel__horScrollBg.offsetWidth - me._highlights_panel__horScrollFg.offsetWidth);
+			me._highlights_panel__horScrollFg.style.left = me._highlights_panel.ggScrollPosX + 'px';
+			let percentScrolled = me._highlights_panel.ggScrollPosX / (me._highlights_panel__horScrollBg.offsetWidth - me._highlights_panel__horScrollFg.offsetWidth);
+			me._highlights_panel__content.style.left = -(Math.round((me._highlights_panel.ggContentWidth * (1.0 - me._highlights_panel.ggHPercentVisible)) * percentScrolled)) + me._highlights_panel.ggContentLeftOffset + 'px';
+			me._highlights_panel.ggScrollPosXPercent = (me._highlights_panel__horScrollFg.offsetLeft / me._highlights_panel__horScrollBg.offsetWidth);
 		}
-		me._scrollarea_1.ggScrollByXSmooth = function(diffX) {
-			if(!me._scrollarea_1.ggHorScrollVisible || diffX == 0 || me._scrollarea_1.ggHPercentVisible >= 1.0) return;
+		me._highlights_panel.ggScrollByXSmooth = function(diffX) {
+			if(!me._highlights_panel.ggHorScrollVisible || diffX == 0 || me._highlights_panel.ggHPercentVisible >= 1.0) return;
 			var scrollPerInterval = diffX / 25;
 			var scrollCurrX = 0;
 			var id = setInterval(function() {
 				scrollCurrX += scrollPerInterval;
-				me._scrollarea_1.ggScrollPosX += scrollPerInterval;
-				if (diffX > 0 && (scrollCurrX >= diffX || me._scrollarea_1.ggScrollPosX >= me._scrollarea_1__horScrollBg.offsetWidth - me._scrollarea_1__horScrollFg.offsetWidth)) {
-					me._scrollarea_1.ggScrollPosX = Math.min(me._scrollarea_1.ggScrollPosX, me._scrollarea_1__horScrollBg.offsetWidth - me._scrollarea_1__horScrollFg.offsetWidth);
+				me._highlights_panel.ggScrollPosX += scrollPerInterval;
+				if (diffX > 0 && (scrollCurrX >= diffX || me._highlights_panel.ggScrollPosX >= me._highlights_panel__horScrollBg.offsetWidth - me._highlights_panel__horScrollFg.offsetWidth)) {
+					me._highlights_panel.ggScrollPosX = Math.min(me._highlights_panel.ggScrollPosX, me._highlights_panel__horScrollBg.offsetWidth - me._highlights_panel__horScrollFg.offsetWidth);
 					clearInterval(id);
 				}
-				if (diffX < 0 && (scrollCurrX <= diffX || me._scrollarea_1.ggScrollPosX <= 0)) {
-					me._scrollarea_1.ggScrollPosX = Math.max(me._scrollarea_1.ggScrollPosX, 0);
+				if (diffX < 0 && (scrollCurrX <= diffX || me._highlights_panel.ggScrollPosX <= 0)) {
+					me._highlights_panel.ggScrollPosX = Math.max(me._highlights_panel.ggScrollPosX, 0);
 					clearInterval(id);
 				}
-			me._scrollarea_1__horScrollFg.style.left = me._scrollarea_1.ggScrollPosX + 'px';
-			let percentScrolled = me._scrollarea_1.ggScrollPosX / (me._scrollarea_1__horScrollBg.offsetWidth - me._scrollarea_1__horScrollFg.offsetWidth);
-			me._scrollarea_1__content.style.left = -(Math.round((me._scrollarea_1.ggContentWidth * (1.0 - me._scrollarea_1.ggHPercentVisible)) * percentScrolled)) + me._scrollarea_1.ggContentLeftOffset + 'px';
-			me._scrollarea_1.ggScrollPosXPercent = (me._scrollarea_1__horScrollFg.offsetLeft / me._scrollarea_1__horScrollBg.offsetWidth);
+			me._highlights_panel__horScrollFg.style.left = me._highlights_panel.ggScrollPosX + 'px';
+			let percentScrolled = me._highlights_panel.ggScrollPosX / (me._highlights_panel__horScrollBg.offsetWidth - me._highlights_panel__horScrollFg.offsetWidth);
+			me._highlights_panel__content.style.left = -(Math.round((me._highlights_panel.ggContentWidth * (1.0 - me._highlights_panel.ggHPercentVisible)) * percentScrolled)) + me._highlights_panel.ggContentLeftOffset + 'px';
+			me._highlights_panel.ggScrollPosXPercent = (me._highlights_panel__horScrollFg.offsetLeft / me._highlights_panel__horScrollBg.offsetWidth);
 			}, 10);
 		}
-		me._scrollarea_1.ggScrollByY = function(diffY) {
-			if(!me._scrollarea_1.ggVertScrollVisible || diffY == 0 || me._scrollarea_1.ggVPercentVisible >= 1.0) return;
-			me._scrollarea_1.ggScrollPosY = (me._scrollarea_1__vertScrollFg.offsetTop + diffY);
-			me._scrollarea_1.ggScrollPosY = Math.max(me._scrollarea_1.ggScrollPosY, 0);
-			me._scrollarea_1.ggScrollPosY = Math.min(me._scrollarea_1.ggScrollPosY, me._scrollarea_1__vertScrollBg.offsetHeight - me._scrollarea_1__vertScrollFg.offsetHeight);
-			me._scrollarea_1__vertScrollFg.style.top = me._scrollarea_1.ggScrollPosY + 'px';
-			let percentScrolled = me._scrollarea_1.ggScrollPosY / (me._scrollarea_1__vertScrollBg.offsetHeight - me._scrollarea_1__vertScrollFg.offsetHeight);
-			me._scrollarea_1__content.style.top = -(Math.round((me._scrollarea_1.ggContentHeight * (1.0 - me._scrollarea_1.ggVPercentVisible)) * percentScrolled)) + me._scrollarea_1.ggContentTopOffset + 'px';
-			me._scrollarea_1.ggScrollPosYPercent = (me._scrollarea_1__vertScrollFg.offsetTop / me._scrollarea_1__vertScrollBg.offsetHeight);
+		me._highlights_panel.ggScrollByY = function(diffY) {
+			if(!me._highlights_panel.ggVertScrollVisible || diffY == 0 || me._highlights_panel.ggVPercentVisible >= 1.0) return;
+			me._highlights_panel.ggScrollPosY = (me._highlights_panel__vertScrollFg.offsetTop + diffY);
+			me._highlights_panel.ggScrollPosY = Math.max(me._highlights_panel.ggScrollPosY, 0);
+			me._highlights_panel.ggScrollPosY = Math.min(me._highlights_panel.ggScrollPosY, me._highlights_panel__vertScrollBg.offsetHeight - me._highlights_panel__vertScrollFg.offsetHeight);
+			me._highlights_panel__vertScrollFg.style.top = me._highlights_panel.ggScrollPosY + 'px';
+			let percentScrolled = me._highlights_panel.ggScrollPosY / (me._highlights_panel__vertScrollBg.offsetHeight - me._highlights_panel__vertScrollFg.offsetHeight);
+			me._highlights_panel__content.style.top = -(Math.round((me._highlights_panel.ggContentHeight * (1.0 - me._highlights_panel.ggVPercentVisible)) * percentScrolled)) + me._highlights_panel.ggContentTopOffset + 'px';
+			me._highlights_panel.ggScrollPosYPercent = (me._highlights_panel__vertScrollFg.offsetTop / me._highlights_panel__vertScrollBg.offsetHeight);
 		}
-		me._scrollarea_1.ggScrollByYSmooth = function(diffY) {
-			if(!me._scrollarea_1.ggVertScrollVisible || diffY == 0 || me._scrollarea_1.ggVPercentVisible >= 1.0) return;
+		me._highlights_panel.ggScrollByYSmooth = function(diffY) {
+			if(!me._highlights_panel.ggVertScrollVisible || diffY == 0 || me._highlights_panel.ggVPercentVisible >= 1.0) return;
 			var scrollPerInterval = diffY / 25;
 			var scrollCurrY = 0;
 			var id = setInterval(function() {
 				scrollCurrY += scrollPerInterval;
-				me._scrollarea_1.ggScrollPosY += scrollPerInterval;
-				if (diffY > 0 && (scrollCurrY >= diffY || me._scrollarea_1.ggScrollPosY >= me._scrollarea_1__vertScrollBg.offsetHeight - me._scrollarea_1__vertScrollFg.offsetHeight)) {
-					me._scrollarea_1.ggScrollPosY = Math.min(me._scrollarea_1.ggScrollPosY, me._scrollarea_1__vertScrollBg.offsetHeight - me._scrollarea_1__vertScrollFg.offsetHeight);
+				me._highlights_panel.ggScrollPosY += scrollPerInterval;
+				if (diffY > 0 && (scrollCurrY >= diffY || me._highlights_panel.ggScrollPosY >= me._highlights_panel__vertScrollBg.offsetHeight - me._highlights_panel__vertScrollFg.offsetHeight)) {
+					me._highlights_panel.ggScrollPosY = Math.min(me._highlights_panel.ggScrollPosY, me._highlights_panel__vertScrollBg.offsetHeight - me._highlights_panel__vertScrollFg.offsetHeight);
 					clearInterval(id);
 				}
-				if (diffY < 0 && (scrollCurrY <= diffY || me._scrollarea_1.ggScrollPosY <= 0)) {
-					me._scrollarea_1.ggScrollPosY = Math.max(me._scrollarea_1.ggScrollPosY, 0);
+				if (diffY < 0 && (scrollCurrY <= diffY || me._highlights_panel.ggScrollPosY <= 0)) {
+					me._highlights_panel.ggScrollPosY = Math.max(me._highlights_panel.ggScrollPosY, 0);
 					clearInterval(id);
 				}
-			me._scrollarea_1__vertScrollFg.style.top = me._scrollarea_1.ggScrollPosY + 'px';
-			let percentScrolled = me._scrollarea_1.ggScrollPosY / (me._scrollarea_1__vertScrollBg.offsetHeight - me._scrollarea_1__vertScrollFg.offsetHeight);
-			me._scrollarea_1__content.style.top = -(Math.round((me._scrollarea_1.ggContentHeight * (1.0 - me._scrollarea_1.ggVPercentVisible)) * percentScrolled)) + me._scrollarea_1.ggContentTopOffset + 'px';
-			me._scrollarea_1.ggScrollPosYPercent = (me._scrollarea_1__vertScrollFg.offsetTop / me._scrollarea_1__vertScrollBg.offsetHeight);
+			me._highlights_panel__vertScrollFg.style.top = me._highlights_panel.ggScrollPosY + 'px';
+			let percentScrolled = me._highlights_panel.ggScrollPosY / (me._highlights_panel__vertScrollBg.offsetHeight - me._highlights_panel__vertScrollFg.offsetHeight);
+			me._highlights_panel__content.style.top = -(Math.round((me._highlights_panel.ggContentHeight * (1.0 - me._highlights_panel.ggVPercentVisible)) * percentScrolled)) + me._highlights_panel.ggContentTopOffset + 'px';
+			me._highlights_panel.ggScrollPosYPercent = (me._highlights_panel__vertScrollFg.offsetTop / me._highlights_panel__vertScrollBg.offsetHeight);
 			}, 10);
 		}
-		me._scrollarea_1.ggScrollIntoView = function(posX, posY, width, height) {
-			if (me._scrollarea_1.ggHorScrollVisible) {
+		me._highlights_panel.ggScrollIntoView = function(posX, posY, width, height) {
+			if (me._highlights_panel.ggHorScrollVisible) {
 				if (posX < 0) {
-					var diffX = Math.floor(posX * me._scrollarea_1.ggHPercentVisible);
-					me._scrollarea_1.ggScrollByXSmooth(diffX);
-				} else if (posX + width > me._scrollarea_1.clientWidth - (me._scrollarea_1.ggVertScrollVisible ? 10 : 0)) {
-					var diffX = Math.ceil(((posX + width) - (me._scrollarea_1.clientWidth - (me._scrollarea_1.ggVertScrollVisible ? 10 : 0))) * me._scrollarea_1.ggHPercentVisible);
-					me._scrollarea_1.ggScrollByXSmooth(diffX);
+					var diffX = Math.floor(posX * me._highlights_panel.ggHPercentVisible);
+					me._highlights_panel.ggScrollByXSmooth(diffX);
+				} else if (posX + width > me._highlights_panel.clientWidth - (me._highlights_panel.ggVertScrollVisible ? 10 : 0)) {
+					var diffX = Math.ceil(((posX + width) - (me._highlights_panel.clientWidth - (me._highlights_panel.ggVertScrollVisible ? 10 : 0))) * me._highlights_panel.ggHPercentVisible);
+					me._highlights_panel.ggScrollByXSmooth(diffX);
 				}
 			}
-			if (me._scrollarea_1.ggVertScrollVisible) {
+			if (me._highlights_panel.ggVertScrollVisible) {
 				if (posY < 0) {
-					var diffY = Math.floor(posY * me._scrollarea_1.ggVPercentVisible);
-					me._scrollarea_1.ggScrollByYSmooth(diffY);
-				} else if (posY + height > me._scrollarea_1.clientHeight - (me._scrollarea_1.ggHorScrollVisible ? 10 : 0)) {
-					var diffY = Math.ceil(((posY + height) - (me._scrollarea_1.clientHeight - (me._scrollarea_1.ggHorScrollVisible ? 10 : 0))) * me._scrollarea_1.ggVPercentVisible);
-					me._scrollarea_1.ggScrollByYSmooth(diffY);
+					var diffY = Math.floor(posY * me._highlights_panel.ggVPercentVisible);
+					me._highlights_panel.ggScrollByYSmooth(diffY);
+				} else if (posY + height > me._highlights_panel.clientHeight - (me._highlights_panel.ggHorScrollVisible ? 10 : 0)) {
+					var diffY = Math.ceil(((posY + height) - (me._highlights_panel.clientHeight - (me._highlights_panel.ggHorScrollVisible ? 10 : 0))) * me._highlights_panel.ggVPercentVisible);
+					me._highlights_panel.ggScrollByYSmooth(diffY);
 				}
 			}
 		}
 		els.ontouchstart = function(e) {
 			e = e || window.event;
 			var t = e.touches;
-			me._scrollarea_1.ggDragLastX = t ? t[0].clientX : e.clientX;
-			me._scrollarea_1.ggDragLastY = t ? t[0].clientY : e.clientY;
-			me._scrollarea_1__content.ontouchend = function() {
+			me._highlights_panel.ggDragLastX = t ? t[0].clientX : e.clientX;
+			me._highlights_panel.ggDragLastY = t ? t[0].clientY : e.clientY;
+			me._highlights_panel__content.ontouchend = function() {
 				let inertiaInterval = setInterval(function() {
-					me._scrollarea_1.ggDragInertiaX *= 0.65;
-					me._scrollarea_1.ggDragInertiaY *= 0.65;
-					me._scrollarea_1.ggScrollByX(me._scrollarea_1.ggDragInertiaX);
-					me._scrollarea_1.ggScrollByY(me._scrollarea_1.ggDragInertiaY);
-					if (Math.abs(me._scrollarea_1.ggDragInertiaX) < 1.0 && Math.abs(me._scrollarea_1.ggDragInertiaY) < 1.0) {
+					me._highlights_panel.ggDragInertiaX *= 0.65;
+					me._highlights_panel.ggDragInertiaY *= 0.65;
+					me._highlights_panel.ggScrollByX(me._highlights_panel.ggDragInertiaX);
+					me._highlights_panel.ggScrollByY(me._highlights_panel.ggDragInertiaY);
+					if (Math.abs(me._highlights_panel.ggDragInertiaX) < 1.0 && Math.abs(me._highlights_panel.ggDragInertiaY) < 1.0) {
 						clearInterval(inertiaInterval);
 					}
 					}, 50);
-				me._scrollarea_1__content.ontouchend = null;
-				me._scrollarea_1__content.ontouchmove = null;
-				me._scrollarea_1__content.onpointerup = null;
-				me._scrollarea_1__content.onpointermove = null;
+				me._highlights_panel__content.ontouchend = null;
+				me._highlights_panel__content.ontouchmove = null;
+				me._highlights_panel__content.onpointerup = null;
+				me._highlights_panel__content.onpointermove = null;
 			}
 		if (player.getOS() == 1 && navigator.maxTouchPoints > 0) {
-			me._scrollarea_1__content.onpointerup = me._scrollarea_1__content.ontouchend;
+			me._highlights_panel__content.onpointerup = me._highlights_panel__content.ontouchend;
 		}
-			me._scrollarea_1__content.ontouchmove = function(e) {
+			me._highlights_panel__content.ontouchmove = function(e) {
 				e = e || window.event;
 				e.preventDefault();
 				var t = e.touches;
-				var diffX = ((t ? t[0].clientX : e.clientX) - me._scrollarea_1.ggDragLastX) * me._scrollarea_1.ggHPercentVisible;
-				var diffY = ((t ? t[0].clientY : e.clientY) - me._scrollarea_1.ggDragLastY) * me._scrollarea_1.ggVPercentVisible;
-				me._scrollarea_1.ggDragInertiaX = -diffX;
-				me._scrollarea_1.ggDragInertiaY = -diffY;
-				me._scrollarea_1.ggDragLastX = t ? t[0].clientX : e.clientX;
-				me._scrollarea_1.ggDragLastY = t ? t[0].clientY : e.clientY;
-				me._scrollarea_1.ggScrollByX(-diffX);
-				me._scrollarea_1.ggScrollByY(-diffY);
+				var diffX = ((t ? t[0].clientX : e.clientX) - me._highlights_panel.ggDragLastX) * me._highlights_panel.ggHPercentVisible;
+				var diffY = ((t ? t[0].clientY : e.clientY) - me._highlights_panel.ggDragLastY) * me._highlights_panel.ggVPercentVisible;
+				me._highlights_panel.ggDragInertiaX = -diffX;
+				me._highlights_panel.ggDragInertiaY = -diffY;
+				me._highlights_panel.ggDragLastX = t ? t[0].clientX : e.clientX;
+				me._highlights_panel.ggDragLastY = t ? t[0].clientY : e.clientY;
+				me._highlights_panel.ggScrollByX(-diffX);
+				me._highlights_panel.ggScrollByY(-diffY);
 			}
 			if (player.getOS() == 1 && navigator.maxTouchPoints > 0) {
-				me._scrollarea_1__content.onpointermove = me._scrollarea_1__content.ontouchmove;
+				me._highlights_panel__content.onpointermove = me._highlights_panel__content.ontouchmove;
 			}
 		}
 		if (player.getOS() == 1 && navigator.maxTouchPoints > 0) {
 			els.onpointerdown = els.ontouchstart;
 		}
-		elVertScrollBg = me._scrollarea_1__vertScrollBg = document.createElement('div');
+		elVertScrollBg = me._highlights_panel__vertScrollBg = document.createElement('div');
 		el.appendChild(elVertScrollBg);
-		elVertScrollBg.setAttribute('style', 'position: absolute; right: 0px; top: 0px; visibility: hidden; width: 10px; height: 175px; background-color: rgba(128,128,128,1); pointer-events: auto;');
+		elVertScrollBg.setAttribute('style', 'position: absolute; right: 0px; top: 0px; visibility: hidden; width: 10px; height: 400px; background-color: rgba(128,128,128,1); pointer-events: auto;');
 		elVertScrollBg.className='ggskin ggskin_scrollarea_vscrollbg';
-		elVertScrollFg = me._scrollarea_1__vertScrollFg = document.createElement('div');
+		elVertScrollFg = me._highlights_panel__vertScrollFg = document.createElement('div');
 		elVertScrollBg.appendChild(elVertScrollFg);
-		elVertScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 10px; height: 175px; background-color: rgba(192,192,192,1); pointer-events: auto;');
+		elVertScrollFg.setAttribute('style', 'position: absolute; left: 0px; top: 0px; visibility: hidden; width: 10px; height: 400px; background-color: rgba(192,192,192,1); pointer-events: auto;');
 		elVertScrollFg.className='ggskin ggskin_scrollarea_vscrollfg';
-		me._scrollarea_1.ggScrollPosY = 0;
-		me._scrollarea_1.ggScrollPosYPercent = 0.0;
+		me._highlights_panel.ggScrollPosY = 0;
+		me._highlights_panel.ggScrollPosYPercent = 0.0;
 		elVertScrollFg.onmousedown = function(e) {
 			if (player.getOS() == 1 && navigator.maxTouchPoints > 0) return;
 			e = e || window.event;
 			e.preventDefault();
 			e.stopPropagation();
-			me._scrollarea_1.ggDragLastY = e.clientY;
+			me._highlights_panel.ggDragLastY = e.clientY;
 			document.onmouseup = function() {
 				let inertiaInterval = setInterval(function() {
-					me._scrollarea_1.ggDragInertiaY *= 0.65;
-					me._scrollarea_1.ggScrollByY(me._scrollarea_1.ggDragInertiaY);
-					if (Math.abs(me._scrollarea_1.ggDragInertiaY) < 1.0) {
+					me._highlights_panel.ggDragInertiaY *= 0.65;
+					me._highlights_panel.ggScrollByY(me._highlights_panel.ggDragInertiaY);
+					if (Math.abs(me._highlights_panel.ggDragInertiaY) < 1.0) {
 						clearInterval(inertiaInterval);
 					}
 					}, 50);
@@ -10539,10 +10448,10 @@ function pano2vrSkin(player,base) {
 			document.onmousemove = function(e) {
 				e = e || window.event;
 				e.preventDefault();
-				var diffY = e.clientY - me._scrollarea_1.ggDragLastY;
-				me._scrollarea_1.ggDragInertiaY = diffY;
-				me._scrollarea_1.ggDragLastY = e.clientY;
-				me._scrollarea_1.ggScrollByY(diffY);
+				var diffY = e.clientY - me._highlights_panel.ggDragLastY;
+				me._highlights_panel.ggDragInertiaY = diffY;
+				me._highlights_panel.ggDragLastY = e.clientY;
+				me._highlights_panel.ggScrollByY(diffY);
 			}
 		}
 		elVertScrollFg.ontouchstart = function(e) {
@@ -10550,12 +10459,12 @@ function pano2vrSkin(player,base) {
 			e.preventDefault();
 			e.stopPropagation();
 			var t = e.touches;
-			me._scrollarea_1.ggDragLastY = t ? t[0].clientY : e.clientY;
+			me._highlights_panel.ggDragLastY = t ? t[0].clientY : e.clientY;
 			document.ontouchend = function() {
 				let inertiaInterval = setInterval(function() {
-					me._scrollarea_1.ggDragInertiaY *= 0.65;
-					me._scrollarea_1.ggScrollByY(me._scrollarea_1.ggDragInertiaY);
-					if (Math.abs(me._scrollarea_1.ggDragInertiaY) < 1.0) {
+					me._highlights_panel.ggDragInertiaY *= 0.65;
+					me._highlights_panel.ggScrollByY(me._highlights_panel.ggDragInertiaY);
+					if (Math.abs(me._highlights_panel.ggDragInertiaY) < 1.0) {
 						clearInterval(inertiaInterval);
 					}
 					}, 50);
@@ -10571,10 +10480,10 @@ function pano2vrSkin(player,base) {
 				e = e || window.event;
 				e.preventDefault();
 				var t = e.touches;
-				var diffY = (t ? t[0].clientY : e.clientY) - me._scrollarea_1.ggDragLastY;
-				me._scrollarea_1.ggDragInertiaY = diffY;
-				me._scrollarea_1.ggDragLastY = t ? t[0].clientY : e.clientY;
-				me._scrollarea_1.ggScrollByY(diffY);
+				var diffY = (t ? t[0].clientY : e.clientY) - me._highlights_panel.ggDragLastY;
+				me._highlights_panel.ggDragInertiaY = diffY;
+				me._highlights_panel.ggDragLastY = t ? t[0].clientY : e.clientY;
+				me._highlights_panel.ggScrollByY(diffY);
 			}
 			if (player.getOS() == 1 && navigator.maxTouchPoints > 0) {
 				document.onpointermove = document.ontouchmove;
@@ -10586,43 +10495,44 @@ function pano2vrSkin(player,base) {
 		elVertScrollBg.onmousedown = function(e) {
 			e = e || window.event;
 			e.preventDefault();
-			var diffY = me._scrollarea_1.ggScrollHeight;
-			if (e.offsetY < me._scrollarea_1.ggScrollPosY) {
+			var diffY = me._highlights_panel.ggScrollHeight;
+			if (e.offsetY < me._highlights_panel.ggScrollPosY) {
 				diffY = diffY * -1;
 			}
-			me._scrollarea_1.ggScrollByYSmooth(diffY);
+			me._highlights_panel.ggScrollByYSmooth(diffY);
 		}
 		elVertScrollBg.ontouchstart = function(e) {
 			e = e || window.event;
 			e.preventDefault();
 			e.stopPropagation();
 			var t = e.touches;
-			var rect = me._scrollarea_1__vertScrollBg.getBoundingClientRect();
-			var diffY = me._scrollarea_1.ggScrollHeight;
-			if ((t[0].clientY - rect.top) < me._scrollarea_1.ggScrollPosY) {
+			var rect = me._highlights_panel__vertScrollBg.getBoundingClientRect();
+			var diffY = me._highlights_panel.ggScrollHeight;
+			if ((t[0].clientY - rect.top) < me._highlights_panel.ggScrollPosY) {
 				diffY = diffY * -1;
 			}
-			me._scrollarea_1.ggScrollByYSmooth(diffY);
+			me._highlights_panel.ggScrollByYSmooth(diffY);
 		}
 		el.addEventListener('wheel', function(e) {
 			e.preventDefault();
 			var wheelDelta = Math.sign(e.deltaY);
-			me._scrollarea_1.ggScrollByYSmooth(30 * me._scrollarea_1.ggVPercentVisible * wheelDelta);
+			me._highlights_panel.ggScrollByYSmooth(30 * me._highlights_panel.ggVPercentVisible * wheelDelta);
 		});
-		elCornerBg = me._scrollarea_1__cornerBg = document.createElement('div');
+		elCornerBg = me._highlights_panel__cornerBg = document.createElement('div');
 		el.appendChild(elCornerBg);
 		elCornerBg.setAttribute('style', 'position: absolute; right: 0px; bottom: 0px; visibility: hidden; width: 10px; height: 10px; background-color: rgba(255,255,255,1);');
 		elCornerBg.className='ggskin ggskin_scrollarea_scrollcorner';
-		el.ggId="Scrollarea 1";
+		el.ggId="highlights_panel";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		el.ggVisible=false;
+		el.ggVisible=true;
 		el.className="ggskin ggskin_scrollarea ";
 		el.ggType='scrollarea';
 		hs ='';
 		hs+='background : rgba(42,42,42,0.392157);';
 		hs+='border : 1px solid #000000;';
 		hs+='height : 50%;';
-		hs+='left : 15px;';
+		hs+='left : -185px;';
+		hs+='opacity : 0;';
 		hs+='overflow : hidden;';
 		hs+='position : absolute;';
 		hs+='top : 70px;';
@@ -10631,13 +10541,13 @@ function pano2vrSkin(player,base) {
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style[domTransform + 'Origin']='50% 50%';
-		me._scrollarea_1.ggIsActive=function() {
+		me._highlights_panel.ggIsActive=function() {
 			return false;
 		}
 		el.ggElementNodeId=function() {
 			return player.getCurrentNode();
 		}
-		me._scrollarea_1.ggUpdatePosition=function (useTransition) {
+		me._highlights_panel.ggUpdatePosition=function (useTransition) {
 			{
 				var horScrollWasVisible = this.ggHorScrollVisible;
 				var vertScrollWasVisible = this.ggVertScrollVisible;
@@ -10685,50 +10595,50 @@ function pano2vrSkin(player,base) {
 				this.ggContent.style.height = contentHeight + 'px';
 				this.ggContent.style.left = this.ggContentLeftOffset + 'px';
 				this.ggContent.style.marginLeft = '0px';
-				this.ggContent.style.top = -(Math.round(me._scrollarea_1.ggScrollPosY / me._scrollarea_1.ggVPercentVisible)) + this.ggContentTopOffset + 'px';
+				this.ggContent.style.top = -(Math.round(me._highlights_panel.ggScrollPosY / me._highlights_panel.ggVPercentVisible)) + this.ggContentTopOffset + 'px';
 				this.ggContent.style.marginTop = '0px';
-				if ((me._scrollarea_1.ggHorScrollVisible && contentHeight > this.clientHeight - 10) || (!me._scrollarea_1.ggHorScrollVisible && contentHeight > this.clientHeight)) {
-					me._scrollarea_1__vertScrollBg.style.visibility = 'inherit';
-					me._scrollarea_1__vertScrollFg.style.visibility = 'inherit';
-					me._scrollarea_1.ggVertScrollVisible = true;
+				if ((me._highlights_panel.ggHorScrollVisible && contentHeight > this.clientHeight - 10) || (!me._highlights_panel.ggHorScrollVisible && contentHeight > this.clientHeight)) {
+					me._highlights_panel__vertScrollBg.style.visibility = 'inherit';
+					me._highlights_panel__vertScrollFg.style.visibility = 'inherit';
+					me._highlights_panel.ggVertScrollVisible = true;
 				} else {
-					me._scrollarea_1__vertScrollBg.style.visibility = 'hidden';
-					me._scrollarea_1__vertScrollFg.style.visibility = 'hidden';
-					me._scrollarea_1.ggVertScrollVisible = false;
+					me._highlights_panel__vertScrollBg.style.visibility = 'hidden';
+					me._highlights_panel__vertScrollFg.style.visibility = 'hidden';
+					me._highlights_panel.ggVertScrollVisible = false;
 				}
-				if(me._scrollarea_1.ggVertScrollVisible) {
-					me._scrollarea_1.ggAvailableWidth = me._scrollarea_1.clientWidth - 10;
-					if (me._scrollarea_1.ggHorScrollVisible) {
-						me._scrollarea_1.ggAvailableHeight = me._scrollarea_1.clientHeight - 10;
-						me._scrollarea_1.ggAvailableHeightWithScale = me._scrollarea_1.getBoundingClientRect().height - me._scrollarea_1__vertScrollBg.getBoundingClientRect().width;
-						me._scrollarea_1__cornerBg.style.visibility = 'inherit';
+				if(me._highlights_panel.ggVertScrollVisible) {
+					me._highlights_panel.ggAvailableWidth = me._highlights_panel.clientWidth - 10;
+					if (me._highlights_panel.ggHorScrollVisible) {
+						me._highlights_panel.ggAvailableHeight = me._highlights_panel.clientHeight - 10;
+						me._highlights_panel.ggAvailableHeightWithScale = me._highlights_panel.getBoundingClientRect().height - me._highlights_panel__vertScrollBg.getBoundingClientRect().width;
+						me._highlights_panel__cornerBg.style.visibility = 'inherit';
 					} else {
-						me._scrollarea_1.ggAvailableHeight = me._scrollarea_1.clientHeight;
-						me._scrollarea_1.ggAvailableHeightWithScale = me._scrollarea_1.getBoundingClientRect().height;
-						me._scrollarea_1__cornerBg.style.visibility = 'hidden';
+						me._highlights_panel.ggAvailableHeight = me._highlights_panel.clientHeight;
+						me._highlights_panel.ggAvailableHeightWithScale = me._highlights_panel.getBoundingClientRect().height;
+						me._highlights_panel__cornerBg.style.visibility = 'hidden';
 					}
-					me._scrollarea_1__vertScrollBg.style.height = me._scrollarea_1.ggAvailableHeight + 'px';
-					me._scrollarea_1.ggVPercentVisible = contentHeight != 0 ? me._scrollarea_1.ggAvailableHeightWithScale / contentHeight : 0.0;
-					if (me._scrollarea_1.ggVPercentVisible > 1.0) me._scrollarea_1.ggVPercentVisible = 1.0;
-					me._scrollarea_1.ggScrollHeight =  Math.round(me._scrollarea_1__vertScrollBg.offsetHeight * me._scrollarea_1.ggVPercentVisible);
-					me._scrollarea_1__vertScrollFg.style.height = me._scrollarea_1.ggScrollHeight + 'px';
-					me._scrollarea_1.ggScrollPosY = me._scrollarea_1.ggScrollPosYPercent * me._scrollarea_1.ggAvailableHeight;
-					me._scrollarea_1.ggScrollPosY = Math.min(me._scrollarea_1.ggScrollPosY, me._scrollarea_1__vertScrollBg.offsetHeight - me._scrollarea_1__vertScrollFg.offsetHeight);
-					me._scrollarea_1__vertScrollFg.style.top = me._scrollarea_1.ggScrollPosY + 'px';
-					if (me._scrollarea_1.ggVPercentVisible < 1.0) {
-						let percentScrolled = me._scrollarea_1.ggScrollPosY / (me._scrollarea_1__vertScrollBg.offsetHeight - me._scrollarea_1__vertScrollFg.offsetHeight);
-						me._scrollarea_1__content.style.top = -(Math.round((me._scrollarea_1.ggContentHeight * (1.0 - me._scrollarea_1.ggVPercentVisible)) * percentScrolled)) + me._scrollarea_1.ggContentTopOffset + 'px';
+					me._highlights_panel__vertScrollBg.style.height = me._highlights_panel.ggAvailableHeight + 'px';
+					me._highlights_panel.ggVPercentVisible = contentHeight != 0 ? me._highlights_panel.ggAvailableHeightWithScale / contentHeight : 0.0;
+					if (me._highlights_panel.ggVPercentVisible > 1.0) me._highlights_panel.ggVPercentVisible = 1.0;
+					me._highlights_panel.ggScrollHeight =  Math.round(me._highlights_panel__vertScrollBg.offsetHeight * me._highlights_panel.ggVPercentVisible);
+					me._highlights_panel__vertScrollFg.style.height = me._highlights_panel.ggScrollHeight + 'px';
+					me._highlights_panel.ggScrollPosY = me._highlights_panel.ggScrollPosYPercent * me._highlights_panel.ggAvailableHeight;
+					me._highlights_panel.ggScrollPosY = Math.min(me._highlights_panel.ggScrollPosY, me._highlights_panel__vertScrollBg.offsetHeight - me._highlights_panel__vertScrollFg.offsetHeight);
+					me._highlights_panel__vertScrollFg.style.top = me._highlights_panel.ggScrollPosY + 'px';
+					if (me._highlights_panel.ggVPercentVisible < 1.0) {
+						let percentScrolled = me._highlights_panel.ggScrollPosY / (me._highlights_panel__vertScrollBg.offsetHeight - me._highlights_panel__vertScrollFg.offsetHeight);
+						me._highlights_panel__content.style.top = -(Math.round((me._highlights_panel.ggContentHeight * (1.0 - me._highlights_panel.ggVPercentVisible)) * percentScrolled)) + me._highlights_panel.ggContentTopOffset + 'px';
 					}
 				} else {
-					me._scrollarea_1.ggAvailableWidth = me._scrollarea_1.clientWidth;
-					me._scrollarea_1.ggScrollPosY = 0;
-					me._scrollarea_1.ggScrollPosYPercent = 0.0;
-					me._scrollarea_1__content.style.top = this.ggContentTopOffset + 'px';
-					me._scrollarea_1__cornerBg.style.visibility = 'hidden';
+					me._highlights_panel.ggAvailableWidth = me._highlights_panel.clientWidth;
+					me._highlights_panel.ggScrollPosY = 0;
+					me._highlights_panel.ggScrollPosYPercent = 0.0;
+					me._highlights_panel__content.style.top = this.ggContentTopOffset + 'px';
+					me._highlights_panel__cornerBg.style.visibility = 'hidden';
 				}
-				if(horScrollWasVisible != me._scrollarea_1.ggHorScrollVisible || vertScrollWasVisible != me._scrollarea_1.ggVertScrollVisible) {
-					me.updateSize(me._scrollarea_1);
-					me._scrollarea_1.ggUpdatePosition();
+				if(horScrollWasVisible != me._highlights_panel.ggHorScrollVisible || vertScrollWasVisible != me._highlights_panel.ggVertScrollVisible) {
+					me.updateSize(me._highlights_panel);
+					me._highlights_panel.ggUpdatePosition();
 				}
 			}
 		}
@@ -10737,7 +10647,7 @@ function pano2vrSkin(player,base) {
 		el.ggNumRows = 0;
 		el.ggNumCols = 0;
 		el.ggWidth = 230;
-		el.ggHeight = 175;
+		el.ggHeight = 400;
 		el.ggUpdating = false;
 		el.ggFilter = [];
 		el.ggInstances = [];
@@ -10903,15 +10813,66 @@ function pano2vrSkin(player,base) {
 		me._cloner_1.ggNodeChange=function () {
 			me._cloner_1.ggUpdateConditionNodeChange();
 		}
-		me._scrollarea_1__content.appendChild(me._cloner_1);
-		me.divSkin.appendChild(me._scrollarea_1);
+		me._highlights_panel__content.appendChild(me._cloner_1);
+		me.divSkin.appendChild(me._highlights_panel);
+		el=me._showmap=document.createElement('div');
+		els=me._showmap__text=document.createElement('div');
+		el.className='ggskin ggskin_textdiv';
+		el.ggTextDiv=els;
+		el.ggId="ShowMap";
+		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
+		el.ggVisible=true;
+		el.className="ggskin ggskin_text ";
+		el.ggType='text';
+		hs ='';
+		hs+='cursor : pointer;';
+		hs+='height : 5%;';
+		hs+='position : absolute;';
+		hs+='right : 15px;';
+		hs+='top : 15px;';
+		hs+='visibility : inherit;';
+		hs+='width : 10%;';
+		hs+='pointer-events:auto;';
+		el.setAttribute('style',hs);
+		el.style[domTransform + 'Origin']='50% 50%';
+		hs ='position:absolute;';
+		hs += 'box-sizing: border-box;';
+		hs+='right: 0px;';
+		hs+='top:  0px;';
+		hs+='width: auto;';
+		hs+='height: auto;';
+		hs+='background: #1a1851;';
+		hs+='border: 1px solid #000000;';
+		hs+='border-radius: 6px;';
+		hs+=cssPrefix + 'border-radius: 6px;';
+		hs+='color: rgba(252,179,21,1);';
+		hs+='text-align: center;';
+		hs+='white-space: nowrap;';
+		hs+='padding: 16px 17px 16px 17px;';
+		hs+='overflow: hidden;';
+		hs+='overflow-y: auto;';
+		els.setAttribute('style',hs);
+		els.innerHTML="Show Map";
+		el.appendChild(els);
+		me._showmap.ggIsActive=function() {
+			return false;
+		}
+		el.ggElementNodeId=function() {
+			return player.getCurrentNode();
+		}
+		me._showmap.onclick=function (e) {
+			player.setVariableValue('show_maps', !player.getVariableValue('show_maps'));
+		}
+		me._showmap.ggUpdatePosition=function (useTransition) {
+		}
+		me.divSkin.appendChild(me._showmap);
 		el=me._hotspots=document.createElement('div');
 		els=me._hotspots__text=document.createElement('div');
 		el.className='ggskin ggskin_textdiv';
 		el.ggTextDiv=els;
 		el.ggId="Hotspots";
 		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		el.ggVisible=false;
+		el.ggVisible=true;
 		el.className="ggskin ggskin_text ";
 		el.ggType='text';
 		hs ='';
@@ -10920,7 +10881,7 @@ function pano2vrSkin(player,base) {
 		hs+='left : 15px;';
 		hs+='position : absolute;';
 		hs+='top : 15px;';
-		hs+='visibility : hidden;';
+		hs+='visibility : inherit;';
 		hs+='width : 10%;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
@@ -10950,39 +10911,12 @@ function pano2vrSkin(player,base) {
 			return player.getCurrentNode();
 		}
 		me._hotspots.onclick=function (e) {
-			player.setVariableValue('hotspot_closed', !player.getVariableValue('hotspot_closed'));
+			player.setVariableValue('show_highlights', !player.getVariableValue('show_highlights'));
 		}
 		me._hotspots.ggUpdatePosition=function (useTransition) {
 			this.style[domTransition]='left 0';
 		}
 		me.divSkin.appendChild(me._hotspots);
-		el=me._timer=document.createElement('div');
-		el.ggId="timer";
-		el.ggParameter={ rx:0,ry:0,a:0,sx:1,sy:1 };
-		el.ggVisible=false;
-		el.className="ggskin ggskin_rectangle ";
-		el.ggType='rectangle';
-		hs ='';
-		hs+='border : 1px solid #000000;';
-		hs+='cursor : default;';
-		hs+='height : 20px;';
-		hs+='left : 379px;';
-		hs+='position : absolute;';
-		hs+='top : 264px;';
-		hs+='visibility : hidden;';
-		hs+='width : 100px;';
-		hs+='pointer-events:auto;';
-		el.setAttribute('style',hs);
-		el.style[domTransform + 'Origin']='50% 50%';
-		me._timer.ggIsActive=function() {
-			return false;
-		}
-		el.ggElementNodeId=function() {
-			return player.getCurrentNode();
-		}
-		me._timer.ggUpdatePosition=function (useTransition) {
-		}
-		me.divSkin.appendChild(me._timer);
 		el=me._compiledsocial=document.createElement('div');
 		els=me._compiledsocial__text=document.createElement('div');
 		el.className='ggskin ggskin_textdiv';
@@ -11044,27 +10978,6 @@ function pano2vrSkin(player,base) {
 		me._popup_video_vimeo.ggVideoNotLoaded = true;
 		me._popup_video_youtube.ggVideoSource = '';
 		me._popup_video_youtube.ggVideoNotLoaded = true;
-		if (
-			(
-				((player.getIsMobile() == true))
-			)
-		) {
-			me._map_1.style[domTransition]='none';
-			me._map_1.style.width = '350px';
-			me._map_1.style.height = '245px';
-			setTimeout(function() {skin.updateSize(me._map_1);}, 64);
-		}
-		if (
-			(
-				((player.getIsMobile() == true))
-			)
-		) {
-			me._container_1.style[domTransition]='none';
-			me._container_1.style.width = '350px';
-			me._container_1.style.height = '245px';
-			setTimeout(function() {skin.updateSize(me._container_1);}, 38);
-		}
-		me._showmap.onclick.call(me._showmap);
 		me._map_1.ggMarkerInstances=[];
 		me._map_1.ggMapId = 'FloorPlan01';
 		me._map_1.ggLastNodeId=null;
@@ -11491,44 +11404,7 @@ function pano2vrSkin(player,base) {
 			me._loading.style[domTransition]='none';
 			me._loading.style.visibility='hidden';
 			me._loading.ggVisible=false;
-			if (
-				(
-					((me.ggUserdata.customnodeid == "gate_node")) && 
-					((player.getVariableValue('map_closed') == true))
-				)
-			) {
-				me._showmap.onclick.call(me._showmap);
-			}
-			me._container_1.style[domTransition]='none';
-			me._container_1.style.visibility=(Number(me._container_1.style.opacity)>0||!me._container_1.style.opacity)?'inherit':'hidden';
-			me._container_1.ggVisible=true;
-			me._showmap.onclick.call(me._showmap);
-			me._scrollarea_1.ggUpdatePosition();
-			me._scrollarea_1.style[domTransition]='none';
-			me._scrollarea_1.style.visibility=(Number(me._scrollarea_1.style.opacity)>0||!me._scrollarea_1.style.opacity)?'inherit':'hidden';
-			me._scrollarea_1.ggVisible=true;
-			me._hotspots.style[domTransition]='none';
-			me._hotspots.style.visibility=(Number(me._hotspots.style.opacity)>0||!me._hotspots.style.opacity)?'inherit':'hidden';
-			me._hotspots.ggVisible=true;
-			me._hotspots.onclick.call(me._hotspots);
-			if (
-				(
-					((me.ggUserdata.customnodeid == "gate_node")) && 
-					((player.getVariableValue('hotspot_closed') == true))
-				)
-			) {
-				me._hotspots.onclick.call(me._hotspots);
-			}
-			if (
-				(
-					((me.ggUserdata.customnodeid == "gate_node")) && 
-					((player.getVariableValue('hotspot_closed') == true))
-				)
-			) {
-				me._container_1.style[domTransition]='none';
-				me._container_1.style.visibility=(Number(me._container_1.style.opacity)>0||!me._container_1.style.opacity)?'inherit':'hidden';
-				me._container_1.ggVisible=true;
-			}
+			me._highlights_panel.ggUpdatePosition();
 		});
 		player.addListener('beforechangenode', function() {
 			if (
@@ -11834,8 +11710,8 @@ function pano2vrSkin(player,base) {
 				player.setVariableValue('pos_autorotate', player.getVariableValue('pos_autorotate') + Number("2"));
 			}
 		});
-		player.addListener('varchanged_hotspot_closed', function() {if (	(		((player.getVariableValue('hotspot_closed') == true))	)) {	if (player.transitionsDisabled) {		me._scrollarea_1.style[domTransition]='none';	} else {		me._scrollarea_1.style[domTransition]='all 200ms ease-out 0ms';	}	me._scrollarea_1.ggParameter.rx=0;me._scrollarea_1.ggParameter.ry=0;	me._scrollarea_1.style[domTransform]=parameterToTransform(me._scrollarea_1.ggParameter);}if (	(		((player.getVariableValue('hotspot_closed') == true))	)) {	if (player.transitionsDisabled) {		me._scrollarea_1.style[domTransition]='none';	} else {		me._scrollarea_1.style[domTransition]='all 200ms ease-out 0ms';	}	me._scrollarea_1.style.opacity='1';	me._scrollarea_1.style.visibility=me._scrollarea_1.ggVisible?'inherit':'hidden';}if (	(		((player.getVariableValue('hotspot_closed') == false))	)) {	if (player.transitionsDisabled) {		me._scrollarea_1.style[domTransition]='none';	} else {		me._scrollarea_1.style[domTransition]='all 200ms ease-out 0ms';	}	me._scrollarea_1.ggParameter.rx=-1000;me._scrollarea_1.ggParameter.ry=0;	me._scrollarea_1.style[domTransform]=parameterToTransform(me._scrollarea_1.ggParameter);}if (	(		((player.getVariableValue('hotspot_closed') == false))	)) {	if (player.transitionsDisabled) {		me._scrollarea_1.style[domTransition]='none';	} else {		me._scrollarea_1.style[domTransition]='all 200ms ease-out 0ms';	}	me._scrollarea_1.style.opacity='0';	me._scrollarea_1.style.visibility='hidden';}});
-		player.addListener('varchanged_map_closed', function() {if (	(		((player.getVariableValue('map_closed') == false))	)) {	if (player.transitionsDisabled) {		me._map_1.style[domTransition]='none';	} else {		me._map_1.style[domTransition]='all 200ms ease-out 0ms';	}	me._map_1.ggParameter.rx+=1000;me._map_1.ggParameter.ry+=0;	me._map_1.style[domTransform]=parameterToTransform(me._map_1.ggParameter);}if (	(		((player.getVariableValue('map_closed') == false))	)) {	if (player.transitionsDisabled) {		me._map_1.style[domTransition]='none';	} else {		me._map_1.style[domTransition]='all 200ms ease-out 0ms';	}	me._map_1.style.opacity='0';	me._map_1.style.visibility='hidden';}if (	(		((player.getVariableValue('map_closed') == true))	)) {	if (player.transitionsDisabled) {		me._map_1.style[domTransition]='none';	} else {		me._map_1.style[domTransition]='all 200ms ease-out 0ms';	}	me._map_1.ggParameter.rx+=-1000;me._map_1.ggParameter.ry+=0;	me._map_1.style[domTransform]=parameterToTransform(me._map_1.ggParameter);}if (	(		((player.getVariableValue('map_closed') == true))	)) {	if (player.transitionsDisabled) {		me._map_1.style[domTransition]='none';	} else {		me._map_1.style[domTransition]='all 200ms ease-out 0ms';	}	me._map_1.style.opacity='1';	me._map_1.style.visibility=me._map_1.ggVisible?'inherit':'hidden';}});
+		player.addListener('varchanged_show_highlights', function() {if (	(		((player.getVariableValue('show_highlights') == true))	)) {	if (player.transitionsDisabled) {		me._highlights_panel.style[domTransition]='none';	} else {		me._highlights_panel.style[domTransition]='all 200ms ease-out 0ms';	}	me._highlights_panel.ggParameter.rx+=-200;me._highlights_panel.ggParameter.ry+=0;	me._highlights_panel.style[domTransform]=parameterToTransform(me._highlights_panel.ggParameter);}if (	(		((player.getVariableValue('show_highlights') == true))	)) {	if (player.transitionsDisabled) {		me._highlights_panel.style[domTransition]='none';	} else {		me._highlights_panel.style[domTransition]='all 200ms ease-out 0ms';	}	me._highlights_panel.style.opacity='0';	me._highlights_panel.style.visibility='hidden';}if (	(		((player.getVariableValue('show_highlights') == false))	)) {	if (player.transitionsDisabled) {		me._highlights_panel.style[domTransition]='none';	} else {		me._highlights_panel.style[domTransition]='all 200ms ease-out 0ms';	}	me._highlights_panel.ggParameter.rx+=200;me._highlights_panel.ggParameter.ry+=0;	me._highlights_panel.style[domTransform]=parameterToTransform(me._highlights_panel.ggParameter);}if (	(		((player.getVariableValue('show_highlights') == false))	)) {	if (player.transitionsDisabled) {		me._highlights_panel.style[domTransition]='none';	} else {		me._highlights_panel.style[domTransition]='all 200ms ease-out 0ms';	}	me._highlights_panel.style.opacity='1';	me._highlights_panel.style.visibility=me._highlights_panel.ggVisible?'inherit':'hidden';}});
+		player.addListener('varchanged_show_maps', function() {if (	(		((player.getVariableValue('show_maps') == true))	)) {	if (player.transitionsDisabled) {		me._maps_panel.style[domTransition]='none';	} else {		me._maps_panel.style[domTransition]='all 200ms ease-out 0ms';	}	me._maps_panel.style.opacity='0';	me._maps_panel.style.visibility='hidden';}if (	(		((player.getVariableValue('show_maps') == false))	)) {	if (player.transitionsDisabled) {		me._maps_panel.style[domTransition]='none';	} else {		me._maps_panel.style[domTransition]='all 200ms ease-out 0ms';	}	me._maps_panel.style.opacity='1';	me._maps_panel.style.visibility=me._maps_panel.ggVisible?'inherit':'hidden';}if (	(		((player.getVariableValue('show_maps') == true))	)) {	if (player.transitionsDisabled) {		me._maps_panel.style[domTransition]='none';	} else {		me._maps_panel.style[domTransition]='all 200ms ease-out 0ms';	}	me._maps_panel.ggParameter.rx+=200;me._maps_panel.ggParameter.ry+=0;	me._maps_panel.style[domTransform]=parameterToTransform(me._maps_panel.ggParameter);}if (	(		((player.getVariableValue('show_maps') == false))	)) {	if (player.transitionsDisabled) {		me._maps_panel.style[domTransition]='none';	} else {		me._maps_panel.style[domTransition]='all 200ms ease-out 0ms';	}	me._maps_panel.ggParameter.rx+=-200;me._maps_panel.ggParameter.ry+=0;	me._maps_panel.style[domTransform]=parameterToTransform(me._maps_panel.ggParameter);}});
 	};
 	this.hotspotProxyClick=function(id, url) {
 	}
@@ -17592,9 +17468,9 @@ this.__div.style.top = vs.height / 2 + "px";
 		el.ggType='hotspot';
 		hs ='';
 		hs+='height : 0px;';
-		hs+='left : 182px;';
+		hs+='left : 533px;';
 		hs+='position : absolute;';
-		hs+='top : 154px;';
+		hs+='top : 70px;';
 		hs+='visibility : inherit;';
 		hs+='width : 0px;';
 		hs+='pointer-events:auto;';
@@ -17648,12 +17524,12 @@ this.__div.style.top = vs.height / 2 + "px";
 		el.className="ggskin ggskin_image ";
 		el.ggType='image';
 		hs ='';
-		hs+='height : 350px;';
-		hs+='left : -141px;';
+		hs+='height : 200px;';
+		hs+='left : -98px;';
 		hs+='position : absolute;';
-		hs+='top : -138px;';
+		hs+='top : -98px;';
 		hs+='visibility : inherit;';
-		hs+='width : 350px;';
+		hs+='width : 200px;';
 		hs+='pointer-events:auto;';
 		el.setAttribute('style',hs);
 		el.style[domTransform + 'Origin']='50% 50%';
@@ -18716,7 +18592,7 @@ this.__div.style.top = vs.height / 2 + "px";
 		me.elementMouseDown={};
 		me.elementMouseOver={};
 		me.__div=document.createElement('div');
-		me.__div.setAttribute('style','position: absolute;width: 230px; height: 175px; visibility: inherit; overflow: visible;');
+		me.__div.setAttribute('style','position: absolute;width: 230px; height: 400px; visibility: inherit; overflow: visible;');
 		me.__div.style.left=parameter.left;
 		me.__div.style.top=parameter.top;
 		me.__div.style.width=parameter.width;
